@@ -1,0 +1,479 @@
+project_id,company_id,project_name,start_date,completion_date,project_status,automation_type,robots_deployed,budget_usd,annual_savings_usd,roi_percent,department,implementation_partner,country,industry,employee_hours_saved,ai_enabled,cloud_deployment
+PRJ001900,CMP07739,Aurora Platform,2016-07-13,2016-10-13,Completed,Customer Onboarding,19,4957632,7515770,151.6,Human Resources,Infosys,Philippines,Insurance,156428,No,Yes
+PRJ041027,CMP05664,Delta Digital Transformation,2018-07-08,,Active,Claims Processing,126,2803227,3159237,112.7,Supply Chain,Wipro,Germany,Telecommunications,143869,No,Yes
+PRJ026412,CMP05054,Vector Automation Initiative,2025-04-18,,Cancelled,HR Automation,56,1904913,3346932,175.7,Risk Management,Cognizant,France,Retail & E-Commerce,199009,No,Yes
+PRJ034782,CMP01628,Aurora Optimization Program,2021-12-28,2023-02-28,Cancelled,Email Automation,105,4027963,11890547,295.2,Procurement,Cyient,Japan,Healthcare,7522,No,No
+PRJ015029,CMP04224,Atlas Digital Transformation,2022-02-02,2023-09-02,Completed,Claims Processing,130,2672267,3666350,137.2,Procurement,Hexaware,Japan,Retail & E-Commerce,151020,Yes,Yes
+PRJ035315,CMP01857,Phoenix Workflow Engine,2019-05-03,2019-10-03,Completed,IT Service Management,171,863448,1977296,229.0,IT,TCS,United States,Pharma & Life Sciences,144836,No,No
+PRJ034169,CMP03267,Phoenix Process Reengineering,2021-05-21,,Active,Claims Processing,98,2262864,2876100,127.1,Operations,PwC,United Kingdom,Transportation & Logistics,195025,Yes,No
+PRJ015598,CMP03088,Phoenix Efficiency Project,2019-01-04,2020-10-04,Completed,Email Automation,149,1188888,1694165,142.5,Procurement,IBM,Canada,Education,176216,No,Yes
+PRJ034594,CMP01669,Sigma Efficiency Project,2019-07-20,,Paused,Email Automation,3,1573273,3355791,213.3,Procurement,EY,Germany,Transportation & Logistics,65379,No,No
+PRJ016489,CMP05586,Omega Automation Initiative,2019-10-12,,Failed,Data Entry Automation,182,2914165,0,-87.4,Content Moderation,TCS,Singapore,Manufacturing,96478,Yes,Yes
+PRJ025526,CMP08975,Lambda Workflow Engine,2016-10-02,2018-03-02,Cancelled,HR Automation,86,4350235,4981019,114.5,Operations,Cognizant,UAE,Healthcare,140184,No,Yes
+PRJ041320,CMP00299,Omega Modernization,2015-03-11,,Active,Financial Reporting,160,1986111,5024861,253.0,Human Resources,Tech Mahindra,Brazil,Education,122952,No,No
+PRJ003605,CMP06496,Atlas Optimization Program,2021-07-26,,Active,Invoice Processing,31,2435940,3342110,137.2,Operations,Cyient,Canada,Insurance,133497,Yes,No
+PRJ040823,CMP01142,Nexus Intelligence Suite,2021-04-23,,Active,Financial Reporting,37,893400,460101,51.5,Human Resources,HCL Technologies,Brazil,Telecommunications,136147,Yes,Yes
+PRJ038879,CMP08024,Delta Workflow Engine,2018-02-02,,Active,Payroll Processing,176,3244518,4603971,141.9,Human Resources,Infosys,Netherlands,Insurance,116770,No,No
+PRJ048203,CMP06149,Vector Process Reengineering,2021-05-18,,Active,Supply Chain,68,605261,1481074,244.7,Operations,HCL Technologies,United Kingdom,Telecommunications,108946,No,Yes
+PRJ027642,CMP07357,Aurora Efficiency Project,2022-03-14,,Active,Payroll Processing,41,3859765,752654,19.5,Customer Service,Tech Mahindra,Japan,Banking & Finance,48719,No,Yes
+PRJ007655,CMP01168,Sigma Process Reengineering,2021-03-19,,Paused,Data Entry Automation,161,146547,205459,140.2,Finance,IBM,Germany,Pharma & Life Sciences,58817,No,No
+PRJ020588,CMP07161,Nexus Platform,2016-11-26,2018-03-26,Completed,Customer Onboarding,20,3467171,9732349,280.7,Supply Chain,Deloitte,United States,Telecommunications,163552,No,Yes
+PRJ035793,CMP06153,Phoenix Process Reengineering,2023-07-11,,Paused,Email Automation,39,1109285,3042769,274.3,IT,Tech Mahindra,Vietnam,Mining & Metals,90145,No,No
+PRJ037248,CMP05771,Aurora Optimization Program,2020-12-18,2021-08-18,Completed,Invoice Processing,62,260485,606149,232.7,Audit,Wipro,Malaysia,Retail & E-Commerce,109571,No,No
+PRJ044460,CMP06628,Quantum Automation Initiative,2019-05-24,2019-08-24,Cancelled,Financial Reporting,10,1780204,3410871,191.6,Supply Chain,Tech Mahindra,United States,Mining & Metals,184901,Yes,Yes
+PRJ034677,CMP07961,Zenith Modernization,2020-03-15,,Active,IT Service Management,63,1696207,2535829,149.5,Human Resources,Capgemini,Canada,Transportation & Logistics,60730,Yes,No
+PRJ035838,CMP01150,Eclipse Digital Transformation,2024-05-05,,Active,Supply Chain,17,523040,1500079,286.8,IT,Infosys,Singapore,Mining & Metals,6618,No,Yes
+PRJ002316,CMP01288,Vector Workflow Engine,2016-08-28,,Active,Customer Onboarding,157,4628341,6576873,142.1,Finance,Capgemini,Germany,Energy & Utilities,73861,Yes,Yes
+PRJ036691,CMP07387,Nexus Efficiency Project,2017-11-07,2019-09-07,Completed,Financial Reporting,177,274258,210356,76.7,Finance,Tech Mahindra,South Africa,Mining & Metals,54561,Yes,No
+PRJ039081,CMP02080,Titan Process Reengineering,2017-07-08,,Failed,Invoice Processing,48,510695,0,-30.7,Customer Onboarding,Cognizant,Canada,Government & Public Sector,42816,No,Yes
+PRJ018011,CMP04189,Nexus Efficiency Project,2017-07-13,2018-05-13,Completed,IT Service Management,163,4972650,13605170,273.6,Finance,Wipro,Netherlands,Insurance,9155,Yes,No
+PRJ024575,CMP07701,Orion Intelligence Suite,2022-05-29,,Active,Supply Chain,43,3149930,705584,22.4,Audit,TCS,United States,Education,128411,Yes,No
+PRJ044030,CMP04301,Lambda Digital Transformation,2024-08-14,,Paused,Compliance Monitoring,127,3200367,9063439,283.2,Risk Management,Mphasis,Singapore,Telecommunications,145491,No,No
+PRJ020058,CMP09539,Atlas Process Reengineering,2020-01-24,,Failed,IT Service Management,42,4010976,0,-83.0,Content Moderation,EY,Japan,Technology,101746,No,No
+PRJ007246,CMP01737,Prism Optimization Program,2023-07-22,2025-06-22,Completed,Claims Processing,186,2929561,6336640,216.3,Human Resources,Hexaware,Philippines,Mining & Metals,34013,No,No
+PRJ037845,CMP07054,Aurora Efficiency Project,2017-01-27,,Active,HR Automation,18,1955103,2987397,152.8,Operations,Cyient,Singapore,Education,167985,No,Yes
+PRJ031858,CMP07548,Delta Intelligence Suite,2024-09-16,2025-07-16,Completed,Customer Onboarding,177,2848509,817522,28.7,Compliance,Mphasis,Germany,Energy & Utilities,175335,Yes,No
+PRJ008611,CMP09378,Eclipse Process Reengineering,2018-06-13,,Active,Email Automation,112,3295039,5914595,179.5,Supply Chain,TCS,France,Transportation & Logistics,116433,Yes,No
+PRJ022849,CMP07818,Omega Automation Initiative,2021-05-20,2022-12-20,Completed,Customer Onboarding,101,1581832,3524322,222.8,Customer Service,LTIMindtree,Mexico,Mining & Metals,95327,Yes,Yes
+PRJ000320,CMP02146,Titan Workflow Engine,2024-02-28,2025-07-28,Completed,Financial Reporting,135,4245011,7870250,185.4,Finance,Hexaware,Japan,Technology,164399,Yes,Yes
+PRJ049801,CMP08067,Delta Automation Initiative,2017-12-29,,Paused,Compliance Monitoring,91,1086791,1207425,111.1,Customer Onboarding,LTIMindtree,Canada,Pharma & Life Sciences,24730,No,Yes
+PRJ026756,CMP01712,Cobalt Process Reengineering,2015-04-01,,Active,Supply Chain,143,2151428,1402731,65.2,Procurement,Deloitte,Singapore,Education,192706,Yes,No
+PRJ012583,CMP02723,Quantum Automation Initiative,2021-01-16,2022-03-16,Completed,HR Automation,128,3369155,2459483,73.0,Marketing,Deloitte,Philippines,Real Estate,189756,Yes,Yes
+PRJ034956,CMP07677,Omega Automation Initiative,2016-04-14,,Active,HR Automation,53,861474,2395759,278.1,Marketing,Tech Mahindra,Vietnam,Government & Public Sector,32285,Yes,No
+PRJ034841,CMP03899,Prism Modernization,2015-05-21,,Active,Audit Automation,107,4920186,13043413,265.1,Marketing,HCL Technologies,India,Telecommunications,141747,Yes,No
+PRJ040776,CMP02037,Vector Platform,2016-07-14,,Active,Audit Automation,24,121844,315698,259.1,Legal,Cyient,Australia,Banking & Finance,69066,Yes,Yes
+PRJ029055,CMP04717,Titan Process Reengineering,2015-04-04,,Active,Claims Processing,19,2091043,4690209,224.3,Content Moderation,Deloitte,India,Technology,53793,No,Yes
+PRJ029781,CMP09010,Fusion Intelligence Suite,2017-11-13,,Active,Data Entry Automation,199,1428373,3909457,273.7,Supply Chain,Tech Mahindra,UAE,Manufacturing,140645,Yes,No
+PRJ011152,CMP05582,Quantum Optimization Program,2016-02-25,,Active,Claims Processing,189,2921716,1180373,40.4,Customer Service,EY,Australia,Telecommunications,87383,Yes,Yes
+PRJ029100,CMP09010,Omega Automation Initiative,2022-01-27,,Failed,Customer Onboarding,189,158901,0,-44.9,Risk Management,EY,Mexico,Education,79709,Yes,No
+PRJ049045,CMP07293,Apex Automation Initiative,2015-12-12,,Failed,Data Entry Automation,141,684937,0,-6.7,Customer Service,Capgemini,Singapore,Transportation & Logistics,127253,No,No
+PRJ011863,CMP02803,Cobalt Automation Initiative,2024-09-08,2025-09-08,Completed,Financial Reporting,182,4461701,11314874,253.6,Compliance,Cyient,Vietnam,Education,3118,No,Yes
+PRJ030627,CMP05556,Cobalt Workflow Engine,2017-06-28,2018-04-28,Cancelled,Audit Automation,165,4895224,7499483,153.2,Procurement,HCL Technologies,Brazil,Insurance,103642,Yes,Yes
+PRJ021697,CMP04946,Apex Optimization Program,2017-09-01,,Active,Data Entry Automation,39,4845287,6793092,140.2,Human Resources,Deloitte,Canada,Real Estate,28329,Yes,No
+PRJ039498,CMP00529,Titan Efficiency Project,2021-09-17,,Active,Compliance Monitoring,179,871336,1175432,134.9,Human Resources,Hexaware,Singapore,Government & Public Sector,112488,No,Yes
+PRJ048779,CMP09889,Aurora Process Reengineering,2018-09-07,2020-03-07,Completed,Claims Processing,2,1606294,1241665,77.3,Legal,Deloitte,Philippines,Telecommunications,127316,No,No
+PRJ040678,CMP05604,Omega Efficiency Project,2020-08-14,,Active,Customer Onboarding,8,1302529,836224,64.2,Customer Onboarding,Capgemini,Vietnam,Government & Public Sector,190948,Yes,No
+PRJ035001,CMP09445,Cobalt Intelligence Suite,2017-04-10,,Active,Claims Processing,67,1314140,2636165,200.6,Procurement,Deloitte,India,Education,55790,Yes,Yes
+PRJ038023,CMP02054,Titan Process Reengineering,2025-12-15,,Paused,HR Automation,148,4004347,532578,13.3,Audit,TCS,India,Technology,146148,Yes,Yes
+PRJ009126,CMP08742,Horizon Efficiency Project,2018-03-15,2020-01-15,Completed,Data Entry Automation,156,3406827,8299031,243.6,IT,EY,Germany,Mining & Metals,105629,Yes,Yes
+PRJ039623,CMP08594,Phoenix Process Reengineering,2021-12-24,2023-06-24,Completed,Financial Reporting,58,3388383,1290974,38.1,Content Moderation,LTIMindtree,Mexico,Energy & Utilities,179767,No,Yes
+PRJ012556,CMP03219,Phoenix Modernization,2019-06-06,,Failed,Financial Reporting,102,3810429,0,-92.5,Risk Management,Tech Mahindra,Netherlands,Banking & Finance,136627,No,No
+PRJ033093,CMP03684,Vector Modernization,2018-11-14,,Paused,HR Automation,131,492707,952895,193.4,Legal,Mphasis,Netherlands,Pharma & Life Sciences,184853,Yes,No
+PRJ049243,CMP07843,Horizon Platform,2021-03-20,,Paused,Data Entry Automation,160,1951854,3817826,195.6,Customer Service,Hexaware,Australia,Pharma & Life Sciences,135429,No,No
+PRJ044718,CMP06081,Quantum Optimization Program,2016-05-29,2017-10-29,Cancelled,Claims Processing,16,3056738,4933575,161.4,Supply Chain,LTIMindtree,United Kingdom,Real Estate,171010,No,Yes
+PRJ018668,CMP06005,Phoenix Modernization,2015-12-18,,Active,Data Entry Automation,136,1018652,577576,56.7,Operations,IBM,Malaysia,Insurance,178962,Yes,Yes
+PRJ042657,CMP06864,Sigma Modernization,2020-05-04,2021-05-04,Completed,Email Automation,49,1652056,2360788,142.9,Audit,Wipro,Mexico,Technology,104749,No,Yes
+PRJ041647,CMP06814,Prism Automation Initiative,2024-10-01,,Completed,IT Service Management,19,62181,102785,165.3,Content Moderation,Mphasis,Malaysia,Technology,36527,No,No
+PRJ004680,CMP01495,Cobalt Process Reengineering,2016-07-28,,Active,Customer Onboarding,50,1759292,1340581,76.2,Customer Onboarding,Deloitte,Japan,Technology,28133,Yes,No
+PRJ028765,CMP04878,Sentinel Modernization,2019-08-02,,Active,Data Entry Automation,177,2666523,1853233,69.5,Content Moderation,PwC,India,Mining & Metals,182753,No,No
+PRJ035987,CMP00400,Cobalt Automation Initiative,2019-07-15,,Paused,Data Entry Automation,4,698738,430423,61.6,Risk Management,Deloitte,Brazil,Retail & E-Commerce,120257,No,No
+PRJ028889,CMP03407,Omega Modernization,2017-05-17,,Failed,Email Automation,43,3206186,0,-9.5,Supply Chain,IBM,Canada,Government & Public Sector,127656,No,No
+PRJ020040,CMP06298,Zenith Optimization Program,2018-01-22,,Active,Invoice Processing,157,3676946,5585281,151.9,Compliance,Hexaware,Vietnam,Real Estate,187594,Yes,Yes
+PRJ007017,CMP08450,Nexus Efficiency Project,2016-02-08,,Active,Supply Chain,112,2613654,3763662,144.0,Audit,EY,Australia,Retail & E-Commerce,42167,Yes,No
+PRJ030472,CMP03147,Vector Platform,2015-02-20,,Active,Payroll Processing,166,1147575,1962353,171.0,Finance,Mphasis,Singapore,Education,98326,No,Yes
+PRJ012068,CMP05606,Quantum Workflow Engine,2020-06-06,2022-03-06,Cancelled,Compliance Monitoring,74,387333,332719,85.9,Risk Management,PwC,United Kingdom,Healthcare,86010,No,No
+PRJ006347,CMP00870,Quantum Modernization,2017-11-04,,Active,Email Automation,103,4848102,1735621,35.8,Human Resources,EY,India,Healthcare,68657,Yes,No
+PRJ011384,CMP09115,Apex Process Reengineering,2019-12-18,,Active,Customer Onboarding,135,3717490,1513018,40.7,Human Resources,Infosys,Mexico,Energy & Utilities,127363,No,Yes
+PRJ021483,CMP06932,Atlas Efficiency Project,2018-06-06,2019-09-06,Completed,HR Automation,133,1375853,2213747,160.9,Customer Service,Mphasis,Philippines,Energy & Utilities,104124,No,Yes
+PRJ024207,CMP01707,Aurora Process Reengineering,2023-07-24,,Active,Claims Processing,131,1285169,1210629,94.2,Operations,Mphasis,Malaysia,Banking & Finance,63612,Yes,No
+PRJ018004,CMP04780,Nexus Intelligence Suite,2023-06-23,,Failed,Payroll Processing,6,4122200,0,-3.8,Compliance,Cyient,Japan,Healthcare,97593,Yes,Yes
+PRJ047470,CMP03717,Apex Intelligence Suite,2016-06-23,,Active,Email Automation,19,3334627,2064134,61.9,Supply Chain,PwC,Brazil,Manufacturing,189882,Yes,No
+PRJ017151,CMP00304,Eclipse Platform,2025-11-04,,Active,Payroll Processing,164,4414891,1880744,42.6,Marketing,EY,South Africa,Banking & Finance,116394,No,Yes
+PRJ042469,CMP01571,Orion Process Reengineering,2015-06-15,2016-02-15,Completed,Payroll Processing,26,2668569,2012101,75.4,Compliance,Mphasis,Australia,Pharma & Life Sciences,199558,Yes,Yes
+PRJ005705,CMP01552,Vector Platform,2023-08-25,2023-11-25,Completed,Claims Processing,138,4797650,4648923,96.9,IT,Capgemini,United Kingdom,Healthcare,108779,Yes,No
+PRJ012748,CMP08883,Zenith Digital Transformation,2020-01-04,2021-11-04,Completed,Payroll Processing,197,3204141,2095508,65.4,Content Moderation,EY,Germany,Retail & E-Commerce,91776,Yes,No
+PRJ021513,CMP03750,Prism Efficiency Project,2024-04-17,2024-09-17,Cancelled,Payroll Processing,46,1804183,1706757,94.6,Compliance,LTIMindtree,Japan,Pharma & Life Sciences,105580,Yes,Yes
+PRJ044152,CMP00452,Zenith Optimization Program,2018-01-24,2019-05-24,Completed,Supply Chain,15,677087,1996052,294.8,Finance,LTIMindtree,India,Technology,65707,No,Yes
+PRJ021659,CMP04947,Vertex Automation Initiative,2024-06-30,,Active,Payroll Processing,49,2605813,3715889,142.6,Operations,Cognizant,Malaysia,Insurance,37881,No,Yes
+PRJ033239,CMP04784,Vector Process Reengineering,2020-06-02,2021-09-02,Completed,Data Entry Automation,115,2404951,4444349,184.8,Supply Chain,Deloitte,Philippines,Healthcare,106635,No,No
+PRJ025020,CMP03942,Apex Automation Initiative,2019-12-11,,Active,Supply Chain,5,4539728,8085256,178.1,Finance,Wipro,Malaysia,Telecommunications,1273,No,No
+PRJ048273,CMP07323,Sigma Optimization Program,2015-04-25,,Failed,Customer Onboarding,153,4033472,0,-79.8,Procurement,Cyient,Japan,Real Estate,163193,Yes,Yes
+PRJ011021,CMP07281,Apex Optimization Program,2018-03-20,,Failed,Customer Onboarding,132,4275914,0,-46.5,Human Resources,Hexaware,India,Healthcare,198034,No,No
+PRJ033708,CMP06496,Lambda Modernization,2021-04-13,2021-10-13,Completed,Invoice Processing,135,2659175,3273444,123.1,Risk Management,Mphasis,United Kingdom,Technology,114502,No,No
+PRJ027218,CMP05356,Lambda Optimization Program,2020-05-07,,Paused,Financial Reporting,6,3620851,6028717,166.5,Audit,Infosys,Mexico,Energy & Utilities,106896,Yes,Yes
+PRJ043408,CMP05140,Vertex Optimization Program,2025-05-21,,Active,Customer Onboarding,102,1652244,2028956,122.8,Risk Management,Mphasis,United States,Insurance,63431,Yes,No
+PRJ040049,CMP08292,Omega Digital Transformation,2022-04-04,2023-01-04,Completed,Audit Automation,197,669023,2013090,300.9,IT,HCL Technologies,France,Energy & Utilities,131560,Yes,No
+PRJ043067,CMP00625,Eclipse Efficiency Project,2024-04-21,2025-01-21,Completed,Financial Reporting,131,700219,1934005,276.2,Content Moderation,Hexaware,South Africa,Manufacturing,160140,No,Yes
+PRJ009263,CMP01995,Quantum Optimization Program,2020-11-25,,Paused,Data Entry Automation,105,4615317,14012102,303.6,Customer Onboarding,Cognizant,Germany,Education,94935,Yes,Yes
+PRJ036249,CMP00046,Omega Accelerator,2022-12-10,,Paused,HR Automation,61,3680038,8051923,218.8,Customer Onboarding,Infosys,Netherlands,Government & Public Sector,170943,No,No
+PRJ000275,CMP07852,Orion Process Reengineering,2025-08-03,,Completed,Invoice Processing,125,4660686,2721841,58.4,Human Resources,Mphasis,Germany,Insurance,95111,No,Yes
+PRJ013219,CMP09212,Apex Process Reengineering,2019-03-25,,Paused,Audit Automation,121,1135221,3187701,280.8,Marketing,TCS,Australia,Manufacturing,57736,No,Yes
+PRJ047661,CMP01917,Zenith Workflow Engine,2015-09-13,,Failed,Compliance Monitoring,61,1227455,0,-57.3,Content Moderation,Cyient,Malaysia,Mining & Metals,150948,Yes,No
+PRJ009947,CMP06444,Aurora Intelligence Suite,2017-04-21,2018-12-21,Completed,Payroll Processing,22,1032060,1510936,146.4,Operations,Deloitte,Japan,Energy & Utilities,97069,Yes,No
+PRJ002407,CMP06750,Fusion Accelerator,2016-02-02,,Active,Supply Chain,141,636617,1555892,244.4,Supply Chain,EY,Japan,Mining & Metals,166261,No,No
+PRJ035366,CMP04461,Cobalt Workflow Engine,2024-12-23,2025-12-23,Cancelled,IT Service Management,92,25136,44466,176.9,Legal,HCL Technologies,Canada,Manufacturing,188715,No,Yes
+PRJ023420,CMP05844,Titan Optimization Program,2021-09-05,2023-07-05,Completed,Financial Reporting,44,98072,265775,271.0,Supply Chain,Wipro,United States,Pharma & Life Sciences,29111,Yes,Yes
+PRJ005442,CMP03605,Horizon Modernization,2025-12-06,,Completed,HR Automation,181,1833973,5637633,307.4,Audit,Accenture,Singapore,Healthcare,179301,No,Yes
+PRJ042798,CMP05765,Cobalt Modernization,2024-02-24,2025-11-24,Completed,HR Automation,124,1869534,4479403,239.6,Human Resources,IBM,Singapore,Government & Public Sector,198468,Yes,No
+PRJ020406,CMP02422,Zenith Digital Transformation,2021-06-22,2022-08-22,Cancelled,Email Automation,45,2394468,6740427,281.5,Marketing,Mphasis,Philippines,Real Estate,52646,No,Yes
+PRJ034100,CMP00920,Lambda Platform,2018-12-24,2020-06-24,Completed,HR Automation,193,3703004,1373814,37.1,Operations,Cognizant,Netherlands,Retail & E-Commerce,60816,Yes,Yes
+PRJ036955,CMP04008,Lambda Modernization,2024-04-02,,Failed,Financial Reporting,35,4547715,0,-59.5,Finance,TCS,France,Insurance,134675,Yes,No
+PRJ039765,CMP00292,Vector Accelerator,2020-11-24,,Active,Email Automation,12,2812090,8613432,306.3,Operations,Cognizant,Australia,Technology,15514,No,No
+PRJ035350,CMP04428,Quantum Workflow Engine,2015-06-29,,Active,Customer Onboarding,195,2042874,933593,45.7,Risk Management,Capgemini,Germany,Real Estate,162908,Yes,Yes
+PRJ048949,CMP00222,Zenith Digital Transformation,2024-12-15,,Failed,IT Service Management,136,2460716,0,-8.9,Supply Chain,Cyient,Vietnam,Pharma & Life Sciences,29688,Yes,Yes
+PRJ049873,CMP02835,Prism Efficiency Project,2015-01-30,,Paused,Claims Processing,4,919187,230716,25.1,Customer Onboarding,IBM,France,Healthcare,81826,Yes,Yes
+PRJ029313,CMP09914,Omega Process Reengineering,2017-09-10,2019-01-10,Completed,Audit Automation,173,916811,2248937,245.3,Supply Chain,EY,France,Transportation & Logistics,140172,Yes,No
+PRJ049023,CMP08339,Horizon Platform,2022-04-30,2023-10-30,Completed,Payroll Processing,190,3029019,2735204,90.3,Marketing,Wipro,United States,Pharma & Life Sciences,156084,Yes,Yes
+PRJ037401,CMP09425,Phoenix Workflow Engine,2023-05-28,,Paused,HR Automation,178,1187200,3496304,294.5,Operations,LTIMindtree,United Kingdom,Banking & Finance,110968,No,No
+PRJ035309,CMP04885,Aurora Digital Transformation,2016-12-01,,Active,Financial Reporting,2,1741997,243880,14.0,Marketing,Cyient,France,Technology,9515,No,No
+PRJ022271,CMP06135,Nexus Intelligence Suite,2022-07-23,2023-08-23,Completed,Invoice Processing,160,1834679,2707986,147.6,Finance,Wipro,Philippines,Banking & Finance,63700,No,No
+PRJ048814,CMP02580,Lambda Platform,2024-04-12,,Active,Data Entry Automation,64,716911,685367,95.6,Customer Service,Capgemini,UAE,Mining & Metals,75855,No,No
+PRJ022278,CMP04340,Sigma Platform,2019-09-18,,Active,Financial Reporting,130,4298788,10656695,247.9,Human Resources,HCL Technologies,Japan,Insurance,195507,Yes,Yes
+PRJ010490,CMP00983,Titan Efficiency Project,2015-04-06,,Failed,IT Service Management,107,28591,0,-53.2,Human Resources,Wipro,Mexico,Real Estate,136366,Yes,Yes
+PRJ009600,CMP07481,Horizon Accelerator,2021-10-18,2023-02-18,Completed,Customer Onboarding,173,3612135,4106997,113.7,Human Resources,Wipro,Mexico,Mining & Metals,186727,No,No
+PRJ016313,CMP03198,Orion Automation Initiative,2019-12-11,,Active,Financial Reporting,69,2889306,3906342,135.2,Procurement,Capgemini,Vietnam,Technology,96796,Yes,Yes
+PRJ015297,CMP05231,Vector Platform,2021-06-16,,Active,Compliance Monitoring,103,4009582,10697565,266.8,Risk Management,Hexaware,UAE,Education,138580,No,Yes
+PRJ025000,CMP04000,Eclipse Digital Transformation,2015-09-13,2017-05-13,Completed,Financial Reporting,26,1391021,2708318,194.7,Supply Chain,Capgemini,Singapore,Retail & E-Commerce,38968,No,No
+PRJ012023,CMP09561,Vertex Modernization,2022-10-23,,Active,Customer Onboarding,4,218078,385344,176.7,Audit,Infosys,France,Manufacturing,106180,No,Yes
+PRJ013438,CMP03158,Nexus Modernization,2023-05-07,2025-05-07,Completed,Compliance Monitoring,181,4227253,9764954,231.0,Content Moderation,Wipro,Vietnam,Education,86545,No,Yes
+PRJ023134,CMP05199,Delta Efficiency Project,2018-04-25,,Active,Supply Chain,54,458317,1385492,302.3,IT,LTIMindtree,Singapore,Mining & Metals,14587,No,Yes
+PRJ008975,CMP09601,Vertex Process Reengineering,2024-04-03,,Failed,Payroll Processing,95,4207513,0,-76.4,Procurement,Tech Mahindra,South Africa,Manufacturing,57568,No,Yes
+PRJ030044,CMP07966,Fusion Platform,2021-06-20,,Active,IT Service Management,177,2745217,351388,12.8,Risk Management,PwC,United Kingdom,Healthcare,150814,Yes,Yes
+PRJ004508,CMP01644,Titan Workflow Engine,2023-12-13,2025-10-13,Completed,Data Entry Automation,125,1926826,3876774,201.2,Operations,EY,United States,Banking & Finance,145827,No,Yes
+PRJ043864,CMP08440,Lambda Automation Initiative,2018-04-10,,Active,Invoice Processing,78,4464860,4647919,104.1,Compliance,Mphasis,Netherlands,Banking & Finance,31243,No,Yes
+PRJ034011,CMP07738,Vertex Accelerator,2019-06-05,,Active,Payroll Processing,80,1062252,3268549,307.7,Customer Onboarding,Hexaware,India,Insurance,194270,No,No
+PRJ039839,CMP04201,Quantum Efficiency Project,2022-02-14,2022-05-14,Completed,Invoice Processing,120,1167408,637405,54.6,Supply Chain,Tech Mahindra,Brazil,Banking & Finance,97100,Yes,No
+PRJ011838,CMP03494,Vector Digital Transformation,2019-08-22,,Active,Claims Processing,173,1487026,750948,50.5,Risk Management,EY,Germany,Telecommunications,22839,No,No
+PRJ042246,CMP04541,Phoenix Process Reengineering,2020-10-09,,Paused,Claims Processing,14,3854760,11402380,295.8,Procurement,Mphasis,Malaysia,Healthcare,181693,Yes,No
+PRJ028667,CMP00234,Sigma Efficiency Project,2016-01-05,,Active,Financial Reporting,159,1843237,2361187,128.1,Content Moderation,Wipro,Netherlands,Healthcare,171564,Yes,No
+PRJ031828,CMP05761,Titan Efficiency Project,2024-10-05,,Active,Audit Automation,10,4970326,11352225,228.4,IT,Hexaware,Singapore,Energy & Utilities,141307,No,No
+PRJ019269,CMP04943,Sigma Workflow Engine,2015-07-22,2017-06-22,Completed,Audit Automation,17,3430002,5669793,165.3,Marketing,TCS,South Africa,Mining & Metals,93842,No,Yes
+PRJ008053,CMP05267,Sentinel Platform,2019-05-03,,Active,Invoice Processing,93,1729433,3047261,176.2,Audit,IBM,South Africa,Pharma & Life Sciences,58582,Yes,No
+PRJ034080,CMP03775,Fusion Workflow Engine,2016-08-08,2017-08-08,Cancelled,Payroll Processing,157,1504817,2022474,134.4,Content Moderation,PwC,Malaysia,Technology,111322,Yes,Yes
+PRJ034389,CMP05201,Vertex Workflow Engine,2023-04-20,,Active,Supply Chain,103,4522673,12934845,286.0,Procurement,Hexaware,Mexico,Pharma & Life Sciences,187993,No,Yes
+PRJ030543,CMP02568,Zenith Automation Initiative,2019-02-19,2021-01-19,Completed,Audit Automation,108,1485725,696805,46.9,Audit,Capgemini,Mexico,Government & Public Sector,122303,No,Yes
+PRJ028940,CMP05688,Horizon Optimization Program,2015-12-27,2016-11-27,Completed,Supply Chain,72,4664133,750925,16.1,Marketing,Accenture,United States,Mining & Metals,101748,No,No
+PRJ001066,CMP06901,Delta Efficiency Project,2019-05-04,,Active,Email Automation,35,2940919,3767317,128.1,Human Resources,LTIMindtree,Philippines,Pharma & Life Sciences,112569,No,No
+PRJ033820,CMP05829,Cobalt Modernization,2018-04-12,,Active,Financial Reporting,47,4379026,1974941,45.1,Content Moderation,LTIMindtree,Malaysia,Government & Public Sector,94180,No,No
+PRJ029748,CMP05768,Vector Intelligence Suite,2021-07-27,,Paused,HR Automation,90,2036810,4110283,201.8,Marketing,Cyient,United Kingdom,Real Estate,130055,Yes,No
+PRJ023260,CMP03264,Lambda Optimization Program,2016-10-10,2017-05-10,Cancelled,Compliance Monitoring,171,4777236,14135841,295.9,IT,Wipro,Brazil,Insurance,8646,Yes,No
+PRJ039139,CMP09210,Prism Process Reengineering,2019-10-11,,Paused,Compliance Monitoring,114,2672228,3954897,148.0,Human Resources,LTIMindtree,Brazil,Mining & Metals,162571,Yes,Yes
+PRJ040480,CMP05746,Sentinel Platform,2020-02-13,,Active,Supply Chain,24,1286384,3071885,238.8,Audit,TCS,Germany,Pharma & Life Sciences,123770,No,No
+PRJ043744,CMP01730,Vector Automation Initiative,2018-07-12,2019-12-12,Completed,Invoice Processing,33,2053926,4175632,203.3,Content Moderation,Deloitte,United Kingdom,Pharma & Life Sciences,1057,Yes,Yes
+PRJ032768,CMP04137,Atlas Modernization,2020-10-01,2021-12-01,Completed,Payroll Processing,51,759340,512555,67.5,Operations,Hexaware,Philippines,Manufacturing,28293,No,No
+PRJ027546,CMP08420,Quantum Accelerator,2015-04-30,,Active,HR Automation,59,3872272,7612887,196.6,Supply Chain,Cyient,France,Pharma & Life Sciences,153856,No,Yes
+PRJ000183,CMP08929,Orion Workflow Engine,2016-06-03,,Active,Email Automation,116,188785,399658,211.7,Finance,Wipro,Singapore,Retail & E-Commerce,160226,Yes,No
+PRJ044414,CMP01319,Orion Platform,2022-12-06,2023-06-06,Cancelled,Email Automation,8,300333,726806,242.0,Human Resources,LTIMindtree,Malaysia,Education,149850,Yes,No
+PRJ029994,CMP01610,Delta Efficiency Project,2015-03-03,2016-07-03,Completed,Data Entry Automation,27,4858183,1729513,35.6,Marketing,EY,Mexico,Mining & Metals,5923,Yes,No
+PRJ047129,CMP06433,Omega Platform,2015-10-01,,Paused,Compliance Monitoring,128,1151261,2925354,254.1,Customer Service,Tech Mahindra,Canada,Mining & Metals,117234,No,Yes
+PRJ026669,CMP06246,Delta Process Reengineering,2016-07-27,2017-12-27,Completed,HR Automation,127,303030,79394,26.2,Finance,Infosys,Japan,Pharma & Life Sciences,173971,No,No
+PRJ044574,CMP08507,Prism Intelligence Suite,2018-09-15,2018-12-15,Completed,Claims Processing,184,2500658,4163596,166.5,Compliance,Wipro,Canada,Retail & E-Commerce,110415,No,Yes
+PRJ040527,CMP00769,Delta Accelerator,2018-04-20,,Paused,Customer Onboarding,30,2033655,2226852,109.5,Supply Chain,PwC,Japan,Energy & Utilities,78581,No,No
+PRJ012633,CMP00655,Prism Accelerator,2022-09-09,2023-06-09,Completed,Email Automation,44,62954,19705,31.3,IT,LTIMindtree,Malaysia,Insurance,92297,Yes,No
+PRJ043478,CMP00433,Vector Workflow Engine,2015-11-08,2017-03-08,Cancelled,HR Automation,180,3844877,9562209,248.7,Legal,PwC,India,Energy & Utilities,25676,No,No
+PRJ004951,CMP09374,Sigma Intelligence Suite,2020-05-14,2022-04-14,Completed,Payroll Processing,66,4100470,9513090,232.0,Operations,EY,France,Transportation & Logistics,32706,Yes,Yes
+PRJ047840,CMP08528,Delta Process Reengineering,2020-07-08,2020-12-08,Completed,Financial Reporting,144,3300117,5329689,161.5,Finance,Cognizant,Philippines,Government & Public Sector,187511,No,Yes
+PRJ003252,CMP03225,Phoenix Intelligence Suite,2016-03-21,,Paused,Claims Processing,165,2101957,2484513,118.2,Human Resources,TCS,Japan,Manufacturing,78773,Yes,No
+PRJ013831,CMP03661,Nexus Platform,2019-03-09,2020-09-09,Completed,Supply Chain,129,3478562,1057483,30.4,IT,TCS,France,Transportation & Logistics,89151,No,No
+PRJ029131,CMP01553,Horizon Optimization Program,2015-08-06,,Active,HR Automation,130,1261519,1018046,80.7,Customer Onboarding,Accenture,United States,Healthcare,109353,Yes,Yes
+PRJ010403,CMP02108,Phoenix Intelligence Suite,2015-12-24,2016-09-24,Completed,Invoice Processing,19,2277241,3782497,166.1,Audit,Hexaware,United States,Telecommunications,104996,No,No
+PRJ018508,CMP01632,Aurora Process Reengineering,2024-11-10,,Active,Data Entry Automation,162,4949513,9874278,199.5,Human Resources,Deloitte,Vietnam,Mining & Metals,143990,Yes,No
+PRJ021515,CMP07643,Titan Efficiency Project,2016-03-18,,Paused,Email Automation,42,3510311,6185168,176.2,Audit,Hexaware,Malaysia,Mining & Metals,114675,No,No
+PRJ040967,CMP08053,Horizon Intelligence Suite,2017-06-18,,Active,Email Automation,53,4993912,2257248,45.2,Human Resources,IBM,Vietnam,Pharma & Life Sciences,95051,Yes,No
+PRJ049340,CMP07257,Omega Digital Transformation,2022-12-07,2023-04-07,Completed,Financial Reporting,57,691288,1155142,167.1,Content Moderation,Capgemini,UAE,Healthcare,87900,No,No
+PRJ036622,CMP09770,Orion Process Reengineering,2021-11-04,,Failed,Compliance Monitoring,142,3851897,0,-45.5,Operations,Mphasis,Canada,Real Estate,7694,No,No
+PRJ027466,CMP00974,Quantum Modernization,2020-08-01,,Active,Email Automation,81,2067895,903670,43.7,Marketing,Accenture,Mexico,Real Estate,112946,No,No
+PRJ032357,CMP00910,Sentinel Intelligence Suite,2022-04-12,2023-03-12,Cancelled,Email Automation,38,1606755,358306,22.3,Compliance,Accenture,Canada,Real Estate,86035,Yes,No
+PRJ049847,CMP07910,Vector Automation Initiative,2015-05-25,2016-10-25,Completed,Supply Chain,178,1972970,1724376,87.4,Risk Management,Wipro,UAE,Insurance,77226,No,No
+PRJ022049,CMP01506,Prism Workflow Engine,2017-11-09,,Active,Compliance Monitoring,161,3770977,8948528,237.3,Legal,Capgemini,France,Real Estate,139080,Yes,No
+PRJ037019,CMP01953,Horizon Digital Transformation,2022-05-27,2023-08-27,Completed,Audit Automation,32,3932780,3806931,96.8,Legal,Cyient,Germany,Government & Public Sector,183793,No,No
+PRJ000585,CMP05894,Orion Digital Transformation,2020-01-26,2021-03-26,Completed,HR Automation,168,67030,42162,62.9,Legal,HCL Technologies,India,Banking & Finance,183305,Yes,No
+PRJ032567,CMP04531,Omega Digital Transformation,2019-08-04,,Active,Data Entry Automation,21,829377,1429846,172.4,Human Resources,Accenture,United Kingdom,Insurance,147595,Yes,Yes
+PRJ003038,CMP03689,Omega Workflow Engine,2025-11-17,,Completed,Data Entry Automation,157,3406769,9647970,283.2,Operations,Infosys,Japan,Manufacturing,17082,Yes,Yes
+PRJ040989,CMP07967,Vertex Automation Initiative,2020-01-20,2020-04-20,Completed,Financial Reporting,154,1006381,1533725,152.4,Supply Chain,TCS,Singapore,Energy & Utilities,87850,Yes,Yes
+PRJ042164,CMP09015,Sigma Optimization Program,2015-10-03,,Paused,Compliance Monitoring,10,312868,742123,237.2,Risk Management,Tech Mahindra,South Africa,Healthcare,194287,No,No
+PRJ013469,CMP01893,Prism Platform,2022-06-15,2023-04-15,Completed,Invoice Processing,154,3639508,2569493,70.6,Marketing,Deloitte,South Africa,Energy & Utilities,52057,Yes,No
+PRJ020226,CMP08916,Apex Workflow Engine,2017-02-08,,Failed,Email Automation,33,1329460,0,-56.6,Compliance,Mphasis,Vietnam,Mining & Metals,1160,Yes,No
+PRJ049748,CMP05446,Orion Accelerator,2017-02-12,,Paused,HR Automation,155,4927477,1872441,38.0,Customer Service,Mphasis,United States,Manufacturing,89701,No,Yes
+PRJ016851,CMP03887,Horizon Optimization Program,2025-07-06,2025-11-06,Completed,Payroll Processing,190,3841705,8728354,227.2,Customer Onboarding,Tech Mahindra,France,Insurance,118212,No,Yes
+PRJ033670,CMP04353,Cobalt Platform,2019-01-15,,Active,Audit Automation,36,3254803,641196,19.7,Human Resources,HCL Technologies,France,Mining & Metals,102521,Yes,Yes
+PRJ017451,CMP02299,Horizon Automation Initiative,2021-12-14,,Active,Payroll Processing,93,152476,84472,55.4,Operations,Hexaware,Singapore,Healthcare,74074,No,Yes
+PRJ019510,CMP08751,Cobalt Automation Initiative,2017-09-08,2018-08-08,Completed,Compliance Monitoring,82,2426220,1974943,81.4,IT,Deloitte,Brazil,Pharma & Life Sciences,21209,No,No
+PRJ029165,CMP09861,Vertex Platform,2024-01-30,,Completed,Email Automation,91,656571,390003,59.4,Marketing,HCL Technologies,Australia,Manufacturing,15896,No,No
+PRJ003983,CMP09466,Orion Platform,2025-01-07,,Completed,HR Automation,95,1171228,1827116,156.0,Procurement,Deloitte,UAE,Insurance,89541,No,No
+PRJ012054,CMP00402,Quantum Modernization,2017-06-21,,Paused,Financial Reporting,64,2665035,295819,11.1,Marketing,HCL Technologies,United States,Real Estate,13297,No,Yes
+PRJ007786,CMP09209,Atlas Process Reengineering,2023-07-30,,Paused,Invoice Processing,43,783568,519506,66.3,Operations,HCL Technologies,Singapore,Telecommunications,69230,Yes,No
+PRJ034280,CMP07694,Eclipse Workflow Engine,2020-06-06,,Active,Payroll Processing,19,1109367,565777,51.0,Customer Service,Accenture,Canada,Banking & Finance,132569,No,Yes
+PRJ004590,CMP08336,Quantum Platform,2025-12-21,,Paused,Invoice Processing,177,4042636,1839399,45.5,Legal,Capgemini,Philippines,Mining & Metals,112343,Yes,Yes
+PRJ044945,CMP09449,Titan Platform,2022-03-17,,Paused,Payroll Processing,12,4037826,12153856,301.0,Content Moderation,PwC,United Kingdom,Retail & E-Commerce,79949,Yes,No
+PRJ002439,CMP08727,Delta Accelerator,2015-04-17,2017-04-17,Completed,Customer Onboarding,116,321933,374408,116.3,Procurement,Tech Mahindra,Philippines,Mining & Metals,185635,No,Yes
+PRJ041621,CMP09431,Vector Optimization Program,2020-06-09,2021-04-09,Completed,Claims Processing,99,446755,501706,112.3,Content Moderation,Accenture,Singapore,Technology,89923,Yes,No
+PRJ036582,CMP05058,Atlas Modernization,2023-02-04,,Active,Audit Automation,108,155352,292062,188.0,Audit,IBM,United States,Transportation & Logistics,22933,Yes,No
+PRJ035097,CMP08873,Delta Optimization Program,2020-11-15,2021-11-15,Completed,Audit Automation,118,4351219,2945775,67.7,Marketing,IBM,Brazil,Banking & Finance,102247,Yes,Yes
+PRJ008167,CMP01230,Delta Intelligence Suite,2025-12-05,,Paused,Invoice Processing,7,2061711,1645245,79.8,Customer Onboarding,Mphasis,Philippines,Technology,78024,No,No
+PRJ020879,CMP05703,Eclipse Digital Transformation,2015-07-01,,Active,Financial Reporting,46,4369173,8310167,190.2,Compliance,Tech Mahindra,Mexico,Banking & Finance,129405,No,Yes
+PRJ018725,CMP02620,Horizon Efficiency Project,2024-03-18,2025-11-18,Completed,Compliance Monitoring,82,483340,1079782,223.4,Operations,PwC,Brazil,Retail & E-Commerce,185885,Yes,Yes
+PRJ047655,CMP06362,Phoenix Digital Transformation,2025-12-23,,Completed,Audit Automation,174,3762655,7182908,190.9,Risk Management,Cognizant,Philippines,Pharma & Life Sciences,180614,Yes,Yes
+PRJ037709,CMP07727,Atlas Accelerator,2017-04-01,,Active,IT Service Management,117,4691575,2205040,47.0,Legal,Hexaware,Australia,Real Estate,100806,No,Yes
+PRJ047612,CMP06958,Delta Process Reengineering,2016-08-11,2018-03-11,Cancelled,Claims Processing,195,3892747,4180810,107.4,Compliance,Deloitte,South Africa,Telecommunications,46880,No,No
+PRJ044671,CMP06711,Titan Platform,2021-10-16,,Paused,Data Entry Automation,36,28815,12880,44.7,Risk Management,HCL Technologies,United Kingdom,Mining & Metals,110808,No,No
+PRJ032338,CMP03139,Horizon Digital Transformation,2024-11-16,,Active,Compliance Monitoring,178,2687498,3891497,144.8,Marketing,Accenture,Netherlands,Banking & Finance,21030,No,Yes
+PRJ046828,CMP03259,Nexus Automation Initiative,2024-02-13,,Paused,Data Entry Automation,90,1934123,5431017,280.8,Customer Onboarding,Cyient,Canada,Pharma & Life Sciences,14702,Yes,No
+PRJ017475,CMP05618,Omega Digital Transformation,2021-08-27,,Failed,Supply Chain,40,192053,0,-12.0,Operations,HCL Technologies,United Kingdom,Real Estate,148185,No,No
+PRJ023905,CMP04404,Titan Accelerator,2015-06-03,,Paused,Claims Processing,192,3512076,3252182,92.6,Risk Management,Capgemini,Singapore,Retail & E-Commerce,11223,Yes,No
+PRJ022427,CMP05736,Nexus Automation Initiative,2019-09-06,,Active,Audit Automation,75,3917312,9487730,242.2,Risk Management,PwC,Netherlands,Telecommunications,162471,Yes,Yes
+PRJ040000,CMP02508,Vertex Digital Transformation,2025-11-06,,Active,Email Automation,183,1260242,409579,32.5,Content Moderation,EY,India,Transportation & Logistics,154212,Yes,Yes
+PRJ002038,CMP00854,Quantum Platform,2020-02-29,2020-12-29,Completed,HR Automation,35,1124290,2120411,188.6,Customer Onboarding,Infosys,Mexico,Government & Public Sector,107691,No,Yes
+PRJ005908,CMP09692,Nexus Digital Transformation,2020-07-25,,Active,HR Automation,196,3260928,2220692,68.1,Audit,Deloitte,France,Insurance,177875,No,No
+PRJ037026,CMP04645,Vector Digital Transformation,2023-08-12,2025-06-12,Completed,Financial Reporting,171,1283203,1185680,92.4,Supply Chain,Cyient,South Africa,Manufacturing,18358,Yes,Yes
+PRJ014320,CMP09416,Titan Optimization Program,2025-02-04,,Completed,Payroll Processing,178,4349283,3327201,76.5,Operations,Infosys,Philippines,Banking & Finance,23117,Yes,No
+PRJ013272,CMP03823,Phoenix Modernization,2023-11-16,2024-03-16,Completed,Supply Chain,84,2762661,7807280,282.6,Compliance,Infosys,Canada,Mining & Metals,193499,No,No
+PRJ039047,CMP08630,Orion Automation Initiative,2021-08-17,,Active,Financial Reporting,80,3659480,9459756,258.5,Customer Service,Cognizant,Philippines,Insurance,113321,No,Yes
+PRJ006058,CMP01181,Zenith Platform,2018-12-22,2019-07-22,Completed,Email Automation,41,2937126,4743458,161.5,Risk Management,Wipro,Singapore,Telecommunications,175561,Yes,Yes
+PRJ031651,CMP01734,Nexus Accelerator,2019-04-13,2020-05-13,Completed,Data Entry Automation,104,863894,1443567,167.1,Marketing,Mphasis,United States,Technology,110044,No,Yes
+PRJ044436,CMP08910,Aurora Accelerator,2023-06-30,,Paused,Payroll Processing,11,4375893,10716562,244.9,Procurement,Cyient,Brazil,Education,121905,No,Yes
+PRJ029051,CMP03582,Fusion Efficiency Project,2018-05-27,2020-03-27,Completed,Claims Processing,21,1961100,4167338,212.5,Marketing,EY,Singapore,Transportation & Logistics,123824,No,No
+PRJ008852,CMP07678,Nexus Modernization,2024-02-14,2025-02-14,Completed,Customer Onboarding,175,1092664,2937081,268.8,Legal,Infosys,Australia,Telecommunications,17114,No,No
+PRJ035373,CMP03079,Titan Optimization Program,2020-10-20,2021-04-20,Cancelled,Invoice Processing,82,2317036,604746,26.1,Customer Onboarding,HCL Technologies,United States,Telecommunications,173851,Yes,No
+PRJ013360,CMP06780,Lambda Automation Initiative,2017-07-25,,Paused,Invoice Processing,105,1032471,1124361,108.9,Legal,Cyient,South Africa,Education,96435,No,No
+PRJ001589,CMP04538,Eclipse Intelligence Suite,2018-07-06,,Active,IT Service Management,111,3382386,1231189,36.4,Audit,Cyient,United Kingdom,Energy & Utilities,119471,Yes,Yes
+PRJ045115,CMP06802,Phoenix Platform,2016-04-22,2017-03-22,Completed,Claims Processing,196,2623345,2337400,89.1,Marketing,Deloitte,South Africa,Energy & Utilities,109956,Yes,Yes
+PRJ037483,CMP07050,Sigma Efficiency Project,2015-03-02,,Failed,Audit Automation,170,288388,0,-33.2,Audit,Mphasis,UAE,Retail & E-Commerce,64980,Yes,Yes
+PRJ036478,CMP06709,Aurora Automation Initiative,2021-09-10,,Paused,IT Service Management,12,3742759,10041822,268.3,Operations,PwC,UAE,Retail & E-Commerce,61412,No,Yes
+PRJ014786,CMP01153,Cobalt Optimization Program,2015-03-01,,Active,Financial Reporting,73,1838373,3415697,185.8,Compliance,Mphasis,India,Banking & Finance,62340,Yes,Yes
+PRJ018712,CMP06201,Quantum Platform,2022-05-11,2024-05-11,Completed,Customer Onboarding,175,4946984,13614100,275.2,Human Resources,LTIMindtree,Singapore,Real Estate,87685,Yes,No
+PRJ041405,CMP06079,Omega Platform,2020-12-03,,Paused,Compliance Monitoring,56,2464360,746701,30.3,Operations,Mphasis,Brazil,Banking & Finance,2077,No,Yes
+PRJ037161,CMP04217,Fusion Digital Transformation,2023-06-07,,Paused,Data Entry Automation,82,405233,657288,162.2,Customer Onboarding,HCL Technologies,United Kingdom,Telecommunications,8018,No,Yes
+PRJ027378,CMP09352,Omega Efficiency Project,2023-05-23,,Active,HR Automation,122,1349278,3352956,248.5,Human Resources,IBM,India,Mining & Metals,122245,Yes,Yes
+PRJ005540,CMP06730,Vertex Digital Transformation,2025-10-02,,Active,HR Automation,166,4594059,12454494,271.1,Compliance,EY,Malaysia,Retail & E-Commerce,148474,No,No
+PRJ003452,CMP01338,Lambda Modernization,2024-01-09,,Active,Invoice Processing,36,592841,98412,16.6,Supply Chain,Infosys,Japan,Healthcare,172000,Yes,No
+PRJ005171,CMP05014,Prism Workflow Engine,2018-06-28,2018-10-28,Completed,IT Service Management,90,4635056,13956154,301.1,Human Resources,Wipro,Australia,Technology,161731,No,Yes
+PRJ028434,CMP06749,Horizon Optimization Program,2019-11-09,,Failed,Supply Chain,132,2649611,0,-16.5,Operations,PwC,India,Insurance,51699,Yes,No
+PRJ042028,CMP04166,Apex Efficiency Project,2016-01-30,,Active,Data Entry Automation,15,482481,1050844,217.8,Supply Chain,Cognizant,UAE,Retail & E-Commerce,73236,No,No
+PRJ020460,CMP06644,Orion Workflow Engine,2018-10-20,2020-10-20,Cancelled,Claims Processing,7,3366063,3746428,111.3,Operations,Deloitte,Canada,Healthcare,5235,Yes,Yes
+PRJ008934,CMP05967,Titan Modernization,2017-01-07,,Active,Customer Onboarding,125,445051,1020057,229.2,Customer Onboarding,PwC,United Kingdom,Government & Public Sector,190230,Yes,Yes
+PRJ016913,CMP02014,Vertex Optimization Program,2015-03-30,2016-06-30,Completed,Customer Onboarding,88,4401138,4027041,91.5,Compliance,Cognizant,Malaysia,Banking & Finance,63264,Yes,Yes
+PRJ035861,CMP07050,Delta Automation Initiative,2020-03-22,2022-01-22,Completed,Data Entry Automation,55,2325433,5899624,253.7,Procurement,IBM,United Kingdom,Healthcare,159271,Yes,Yes
+PRJ032905,CMP03074,Eclipse Process Reengineering,2015-01-11,,Active,Invoice Processing,26,2518088,6783729,269.4,Content Moderation,HCL Technologies,France,Education,187826,No,No
+PRJ046982,CMP06486,Cobalt Automation Initiative,2016-08-16,2017-07-16,Completed,Payroll Processing,69,3559962,4866468,136.7,IT,Tech Mahindra,India,Energy & Utilities,197022,Yes,No
+PRJ008409,CMP04007,Nexus Platform,2022-08-26,2023-03-26,Completed,Email Automation,110,4966946,4192102,84.4,Compliance,Wipro,United Kingdom,Transportation & Logistics,167052,No,No
+PRJ042172,CMP02916,Atlas Process Reengineering,2018-11-10,,Active,Customer Onboarding,112,3315528,2009210,60.6,IT,Tech Mahindra,UAE,Banking & Finance,95902,Yes,No
+PRJ022986,CMP00526,Nexus Optimization Program,2025-03-24,,Paused,Data Entry Automation,42,4568986,598537,13.1,IT,IBM,United States,Technology,23635,Yes,No
+PRJ028659,CMP02370,Atlas Optimization Program,2021-03-09,2021-09-09,Completed,IT Service Management,124,786311,1455462,185.1,Compliance,Mphasis,Philippines,Banking & Finance,21413,No,No
+PRJ047762,CMP03973,Horizon Digital Transformation,2022-09-24,,Active,Invoice Processing,119,1908834,4999236,261.9,Human Resources,Infosys,Australia,Banking & Finance,53017,No,Yes
+PRJ042460,CMP00165,Orion Intelligence Suite,2017-09-14,2018-07-14,Cancelled,Invoice Processing,131,4183839,1104533,26.4,Customer Service,HCL Technologies,Singapore,Telecommunications,174111,Yes,No
+PRJ030915,CMP01616,Prism Workflow Engine,2019-01-14,2020-03-14,Completed,Compliance Monitoring,183,3663691,11057019,301.8,Risk Management,HCL Technologies,Malaysia,Healthcare,108937,Yes,Yes
+PRJ043957,CMP00923,Omega Platform,2023-05-17,,Active,Data Entry Automation,126,2397410,6835016,285.1,Human Resources,Wipro,United States,Telecommunications,53996,Yes,Yes
+PRJ008270,CMP06281,Sentinel Efficiency Project,2023-05-03,2024-05-03,Completed,Customer Onboarding,147,3659076,11288249,308.5,IT,Infosys,Australia,Transportation & Logistics,120111,Yes,Yes
+PRJ008472,CMP07261,Fusion Process Reengineering,2019-05-28,2020-05-28,Completed,Customer Onboarding,38,1647461,4113710,249.7,Supply Chain,Deloitte,Australia,Government & Public Sector,43993,No,Yes
+PRJ009370,CMP09448,Eclipse Platform,2024-03-02,,Active,Payroll Processing,177,85581,234834,274.4,Audit,Accenture,Netherlands,Healthcare,86657,Yes,Yes
+PRJ004913,CMP08481,Delta Optimization Program,2021-09-04,,Active,Email Automation,97,3473697,3709908,106.8,Human Resources,LTIMindtree,South Africa,Education,1393,No,No
+PRJ023025,CMP08055,Eclipse Platform,2021-10-20,2023-08-20,Completed,IT Service Management,97,1763796,3167778,179.6,Human Resources,Tech Mahindra,Mexico,Education,93757,No,Yes
+PRJ049140,CMP02014,Eclipse Efficiency Project,2021-06-04,2023-05-04,Completed,HR Automation,9,3507805,6079026,173.3,IT,IBM,South Africa,Technology,83602,Yes,Yes
+PRJ001037,CMP03539,Delta Platform,2020-01-21,,Active,Claims Processing,151,3758665,702870,18.7,Operations,IBM,Canada,Transportation & Logistics,159005,Yes,Yes
+PRJ007470,CMP07753,Quantum Digital Transformation,2018-10-27,2019-10-27,Completed,Customer Onboarding,140,1099873,1979771,180.0,Supply Chain,Cognizant,Vietnam,Energy & Utilities,150366,No,No
+PRJ011653,CMP01445,Fusion Automation Initiative,2016-01-25,,Active,Supply Chain,15,2030942,1125142,55.4,Content Moderation,Tech Mahindra,Germany,Manufacturing,73344,Yes,No
+PRJ009686,CMP07689,Eclipse Automation Initiative,2025-09-26,,Active,Payroll Processing,36,3701665,7573607,204.6,Customer Service,Cyient,Philippines,Insurance,79050,Yes,No
+PRJ007007,CMP06565,Zenith Workflow Engine,2019-05-15,2019-09-15,Completed,Compliance Monitoring,78,3984256,6064038,152.2,Customer Onboarding,PwC,Malaysia,Telecommunications,183428,Yes,Yes
+PRJ028059,CMP01541,Vector Modernization,2022-03-22,,Failed,Audit Automation,98,3006663,0,-36.6,Human Resources,IBM,Australia,Education,11232,No,Yes
+PRJ016187,CMP08763,Omega Optimization Program,2015-06-20,,Failed,Customer Onboarding,186,2884030,0,-82.9,Audit,EY,Singapore,Government & Public Sector,166963,No,No
+PRJ017011,CMP03250,Aurora Efficiency Project,2016-05-24,2016-11-24,Cancelled,HR Automation,136,4133552,10065199,243.5,Risk Management,IBM,Brazil,Education,129461,Yes,Yes
+PRJ049103,CMP03036,Sentinel Optimization Program,2016-01-02,2017-07-02,Completed,Claims Processing,129,2438674,3336106,136.8,IT,TCS,Canada,Manufacturing,57455,Yes,Yes
+PRJ013759,CMP07162,Lambda Efficiency Project,2025-06-08,,Active,Claims Processing,157,3017330,343976,11.4,Procurement,Hexaware,France,Real Estate,154768,Yes,No
+PRJ042426,CMP06919,Omega Process Reengineering,2017-02-03,,Active,Payroll Processing,85,1539547,4449291,289.0,Procurement,Wipro,Japan,Banking & Finance,96574,No,No
+PRJ040217,CMP06763,Omega Intelligence Suite,2022-11-16,2023-06-16,Completed,Financial Reporting,164,1783563,2249073,126.1,IT,Deloitte,United States,Insurance,147917,No,Yes
+PRJ023553,CMP05016,Sentinel Accelerator,2020-10-29,,Active,Invoice Processing,147,1664171,4721253,283.7,Marketing,Capgemini,United Kingdom,Real Estate,172245,Yes,No
+PRJ022656,CMP07895,Sigma Intelligence Suite,2019-06-17,2019-10-17,Completed,Data Entry Automation,42,1352727,436931,32.3,Compliance,PwC,Philippines,Banking & Finance,153614,No,Yes
+PRJ033584,CMP05197,Cobalt Efficiency Project,2023-03-15,,Paused,Supply Chain,7,1140360,2658179,233.1,Content Moderation,Wipro,Vietnam,Technology,32662,No,No
+PRJ039812,CMP09838,Cobalt Digital Transformation,2025-01-23,,Cancelled,Supply Chain,156,4105067,6995034,170.4,Finance,HCL Technologies,United Kingdom,Government & Public Sector,187369,Yes,No
+PRJ012256,CMP01433,Aurora Digital Transformation,2017-01-31,,Paused,Financial Reporting,188,602732,167559,27.8,Customer Service,Accenture,Netherlands,Government & Public Sector,169490,Yes,No
+PRJ042224,CMP04971,Aurora Workflow Engine,2016-08-27,,Active,Claims Processing,120,92896,31492,33.9,Risk Management,LTIMindtree,Canada,Government & Public Sector,45225,No,Yes
+PRJ047675,CMP01306,Vector Platform,2015-12-31,,Active,Payroll Processing,27,1113892,3258134,292.5,Audit,Cognizant,Malaysia,Transportation & Logistics,30753,No,No
+PRJ018028,CMP01498,Sigma Accelerator,2020-11-14,2021-09-14,Completed,Claims Processing,156,3705921,985775,26.6,Customer Onboarding,LTIMindtree,India,Insurance,58994,No,Yes
+PRJ014193,CMP03088,Eclipse Modernization,2017-05-07,,Active,Supply Chain,191,479468,488578,101.9,Finance,Capgemini,Singapore,Transportation & Logistics,164731,No,No
+PRJ039310,CMP05284,Vector Process Reengineering,2021-05-24,2021-12-24,Completed,Claims Processing,74,3455338,2107756,61.0,Operations,HCL Technologies,Netherlands,Insurance,74894,Yes,No
+PRJ018593,CMP03962,Aurora Workflow Engine,2017-01-19,2018-10-19,Completed,Customer Onboarding,40,3159527,2571855,81.4,Marketing,Capgemini,Mexico,Energy & Utilities,75191,Yes,Yes
+PRJ031249,CMP07574,Phoenix Process Reengineering,2022-10-16,,Active,Customer Onboarding,76,396907,783098,197.3,Customer Service,EY,UAE,Healthcare,75336,No,Yes
+PRJ021673,CMP02604,Eclipse Process Reengineering,2015-10-04,,Failed,Customer Onboarding,196,2194582,0,-58.9,Audit,HCL Technologies,France,Insurance,181998,No,No
+PRJ000826,CMP01372,Aurora Efficiency Project,2016-01-10,,Paused,Supply Chain,11,4034242,1896094,47.0,IT,EY,Philippines,Banking & Finance,52015,No,Yes
+PRJ029414,CMP08487,Atlas Accelerator,2016-06-15,,Active,Invoice Processing,96,653562,137902,21.1,Procurement,LTIMindtree,Germany,Retail & E-Commerce,55979,No,No
+PRJ032264,CMP02967,Lambda Modernization,2021-08-22,,Failed,Audit Automation,33,2652012,0,-90.4,Audit,IBM,Malaysia,Government & Public Sector,173350,No,No
+PRJ006199,CMP09295,Orion Modernization,2015-07-25,,Failed,Data Entry Automation,32,2279078,0,-83.5,Content Moderation,HCL Technologies,Malaysia,Education,141384,No,No
+PRJ018865,CMP03478,Vertex Optimization Program,2015-08-07,2017-02-07,Completed,Email Automation,98,1739840,471497,27.1,Procurement,Accenture,Brazil,Energy & Utilities,75765,Yes,No
+PRJ014209,CMP08114,Phoenix Efficiency Project,2023-06-17,2024-05-17,Completed,Claims Processing,20,2718016,1076334,39.6,Customer Onboarding,Cyient,Vietnam,Energy & Utilities,175594,No,Yes
+PRJ031312,CMP03607,Vertex Modernization,2021-10-27,2023-07-27,Completed,Payroll Processing,56,3071375,4668490,152.0,Operations,EY,South Africa,Telecommunications,152238,Yes,Yes
+PRJ033090,CMP07036,Cobalt Accelerator,2015-07-31,,Paused,Customer Onboarding,139,2778858,6824875,245.6,Compliance,PwC,Canada,Pharma & Life Sciences,195903,No,Yes
+PRJ003183,CMP05352,Apex Automation Initiative,2022-08-31,,Active,Compliance Monitoring,20,3582102,4248373,118.6,Audit,Cognizant,South Africa,Manufacturing,86959,Yes,Yes
+PRJ048604,CMP00966,Zenith Optimization Program,2018-12-10,,Active,Financial Reporting,180,345715,517190,149.6,Supply Chain,Infosys,Brazil,Pharma & Life Sciences,21960,Yes,Yes
+PRJ042014,CMP00099,Apex Automation Initiative,2018-08-13,2019-03-13,Cancelled,Audit Automation,78,1978923,2616136,132.2,Finance,Hexaware,Japan,Transportation & Logistics,149726,Yes,No
+PRJ024076,CMP07753,Atlas Workflow Engine,2023-11-26,2025-03-26,Completed,HR Automation,102,1786515,4678883,261.9,Compliance,Mphasis,Philippines,Mining & Metals,43595,No,No
+PRJ042170,CMP09937,Eclipse Optimization Program,2017-10-27,,Active,Email Automation,29,2878655,7749339,269.2,Operations,Capgemini,Malaysia,Energy & Utilities,61381,No,No
+PRJ011084,CMP02048,Sentinel Platform,2019-10-13,,Active,Invoice Processing,5,2249115,6677622,296.9,Legal,Mphasis,Singapore,Technology,37569,Yes,No
+PRJ033611,CMP08601,Titan Platform,2016-04-04,2017-12-04,Completed,Financial Reporting,9,252381,757648,300.2,IT,TCS,Singapore,Transportation & Logistics,104777,No,No
+PRJ019132,CMP08432,Atlas Process Reengineering,2019-02-06,,Failed,HR Automation,104,2302533,0,-18.2,Human Resources,LTIMindtree,Canada,Mining & Metals,13055,Yes,Yes
+PRJ039948,CMP01497,Zenith Platform,2015-06-11,,Active,Supply Chain,83,3801369,1984315,52.2,Compliance,IBM,Malaysia,Technology,141549,No,No
+PRJ039438,CMP06737,Apex Automation Initiative,2023-02-11,,Active,Payroll Processing,35,4379400,10462387,238.9,Risk Management,EY,United Kingdom,Mining & Metals,151328,Yes,Yes
+PRJ010842,CMP09001,Vertex Automation Initiative,2020-01-29,2020-05-29,Completed,Supply Chain,146,3057377,434148,14.2,IT,LTIMindtree,Japan,Technology,64106,No,Yes
+PRJ015001,CMP09155,Sentinel Optimization Program,2024-11-15,2025-08-15,Cancelled,Financial Reporting,55,1789833,1813101,101.3,Marketing,PwC,Canada,Telecommunications,150184,No,No
+PRJ026662,CMP01478,Atlas Digital Transformation,2017-12-04,,Active,Compliance Monitoring,24,1901179,1163522,61.2,Finance,Mphasis,United Kingdom,Real Estate,70698,No,No
+PRJ045807,CMP04586,Nexus Automation Initiative,2019-04-30,,Failed,Audit Automation,25,2336432,0,-76.5,Risk Management,Cognizant,Philippines,Retail & E-Commerce,166380,Yes,Yes
+PRJ022543,CMP04627,Horizon Accelerator,2016-11-11,2017-08-11,Completed,Audit Automation,164,2756668,1720161,62.4,Content Moderation,LTIMindtree,Malaysia,Pharma & Life Sciences,153424,No,No
+PRJ033342,CMP09736,Titan Platform,2018-01-28,2019-01-28,Completed,Customer Onboarding,41,4610300,1959378,42.5,Human Resources,IBM,UAE,Education,174810,Yes,No
+PRJ003624,CMP07247,Eclipse Optimization Program,2018-07-07,2020-07-07,Completed,Audit Automation,158,516305,193098,37.4,Marketing,Deloitte,Mexico,Energy & Utilities,163971,Yes,No
+PRJ033068,CMP00363,Sentinel Efficiency Project,2019-07-20,,Active,Financial Reporting,38,418026,374551,89.6,Content Moderation,Accenture,Germany,Banking & Finance,14346,Yes,No
+PRJ042534,CMP06871,Aurora Accelerator,2022-07-15,,Paused,Financial Reporting,104,2091685,5264771,251.7,Human Resources,Hexaware,South Africa,Pharma & Life Sciences,72984,Yes,No
+PRJ010340,CMP05943,Sentinel Process Reengineering,2017-11-01,,Active,Data Entry Automation,66,4129019,3113280,75.4,Compliance,Deloitte,Canada,Government & Public Sector,91585,No,No
+PRJ029567,CMP04946,Lambda Accelerator,2018-01-23,,Active,Audit Automation,42,1154763,1475787,127.8,Content Moderation,Infosys,Mexico,Retail & E-Commerce,61642,Yes,Yes
+PRJ001916,CMP08524,Vertex Automation Initiative,2016-09-26,2018-01-26,Cancelled,Invoice Processing,139,2104712,1452251,69.0,Compliance,LTIMindtree,Mexico,Transportation & Logistics,179142,Yes,Yes
+PRJ013888,CMP00183,Cobalt Process Reengineering,2025-12-22,,Completed,HR Automation,177,4875449,7898227,162.0,Operations,HCL Technologies,Malaysia,Manufacturing,71131,No,Yes
+PRJ024763,CMP06969,Sigma Optimization Program,2018-04-09,,Active,Financial Reporting,118,942922,1832097,194.3,Compliance,Cognizant,Netherlands,Energy & Utilities,194714,Yes,Yes
+PRJ023143,CMP06598,Sentinel Process Reengineering,2019-10-28,2021-04-28,Cancelled,Compliance Monitoring,106,1161847,2676895,230.4,Finance,Deloitte,India,Energy & Utilities,139832,Yes,No
+PRJ013905,CMP08233,Omega Digital Transformation,2022-11-04,2024-03-04,Cancelled,Payroll Processing,79,378145,445833,117.9,Legal,TCS,France,Banking & Finance,116842,No,No
+PRJ009125,CMP00597,Sentinel Digital Transformation,2018-02-06,,Paused,Data Entry Automation,42,3782644,3676730,97.2,Supply Chain,IBM,Philippines,Insurance,162544,Yes,No
+PRJ027878,CMP06147,Sentinel Automation Initiative,2024-06-06,2025-05-06,Cancelled,Claims Processing,99,607119,1819536,299.7,Marketing,PwC,UAE,Healthcare,198512,No,Yes
+PRJ001754,CMP04075,Titan Intelligence Suite,2015-11-03,,Active,Audit Automation,139,1381503,4180428,302.6,Customer Service,Deloitte,India,Insurance,29881,No,Yes
+PRJ029961,CMP03530,Vertex Platform,2021-01-28,2021-12-28,Completed,Claims Processing,73,2589467,6745562,260.5,Operations,Accenture,Mexico,Education,7403,No,No
+PRJ046749,CMP02946,Orion Workflow Engine,2016-10-25,,Failed,Claims Processing,129,2148690,0,-91.5,Audit,Cognizant,France,Education,16341,Yes,No
+PRJ047492,CMP01431,Sentinel Efficiency Project,2022-01-14,,Paused,IT Service Management,88,1073309,2023187,188.5,Operations,HCL Technologies,Singapore,Transportation & Logistics,48938,No,Yes
+PRJ013706,CMP03633,Prism Efficiency Project,2025-05-09,2025-08-09,Completed,Email Automation,112,4914268,8609798,175.2,Procurement,TCS,Japan,Energy & Utilities,78212,Yes,No
+PRJ044832,CMP05154,Titan Workflow Engine,2018-11-01,,Failed,Invoice Processing,126,1030067,0,-64.0,Human Resources,Mphasis,Germany,Education,52395,Yes,No
+PRJ004377,CMP03975,Lambda Intelligence Suite,2022-08-11,,Active,Customer Onboarding,121,1250893,1707469,136.5,Compliance,Mphasis,Vietnam,Insurance,143753,No,Yes
+PRJ004144,CMP01848,Lambda Digital Transformation,2021-11-24,2023-07-24,Completed,Supply Chain,82,1645585,608866,37.0,Marketing,Cognizant,Philippines,Technology,135018,No,No
+PRJ045307,CMP02123,Aurora Workflow Engine,2021-04-13,,Active,Data Entry Automation,32,1963581,4056758,206.6,Compliance,Tech Mahindra,Malaysia,Pharma & Life Sciences,165325,No,Yes
+PRJ012237,CMP07605,Fusion Efficiency Project,2023-10-18,2025-01-18,Completed,Customer Onboarding,82,511561,1301411,254.4,Finance,PwC,Singapore,Education,191529,Yes,No
+PRJ027278,CMP08092,Titan Accelerator,2021-09-08,2023-07-08,Cancelled,Compliance Monitoring,169,222820,596712,267.8,Human Resources,Accenture,Philippines,Mining & Metals,75798,No,Yes
+PRJ006456,CMP07424,Titan Accelerator,2017-09-29,,Paused,Claims Processing,92,1113769,1261900,113.3,Customer Service,Capgemini,United Kingdom,Telecommunications,143933,No,No
+PRJ021493,CMP06271,Zenith Platform,2021-02-08,,Active,Audit Automation,180,384918,679765,176.6,Operations,Wipro,Mexico,Insurance,175872,No,Yes
+PRJ006419,CMP09986,Eclipse Intelligence Suite,2024-08-10,,Paused,Supply Chain,159,3313325,2859399,86.3,Customer Service,Cognizant,Brazil,Mining & Metals,112929,Yes,Yes
+PRJ030590,CMP06496,Fusion Modernization,2025-05-08,,Completed,Claims Processing,106,2344013,1875210,80.0,Supply Chain,LTIMindtree,Philippines,Pharma & Life Sciences,149174,No,No
+PRJ041899,CMP07081,Horizon Intelligence Suite,2017-09-28,,Active,Email Automation,97,1441016,1890613,131.2,Compliance,Deloitte,United States,Manufacturing,53534,Yes,No
+PRJ037366,CMP03780,Delta Optimization Program,2024-09-13,,Active,Invoice Processing,125,2641998,657858,24.9,Procurement,EY,Malaysia,Healthcare,16827,No,Yes
+PRJ040482,CMP00413,Vector Platform,2023-10-12,2024-09-12,Cancelled,Email Automation,16,766921,114271,14.9,Marketing,Mphasis,Japan,Mining & Metals,66857,Yes,No
+PRJ016938,CMP02017,Delta Optimization Program,2017-04-13,2018-11-13,Cancelled,Supply Chain,74,348254,741781,213.0,Compliance,Cyient,United States,Telecommunications,66397,Yes,Yes
+PRJ010015,CMP00274,Omega Efficiency Project,2017-04-09,2018-08-09,Completed,Customer Onboarding,122,241287,244665,101.4,Compliance,Accenture,Singapore,Pharma & Life Sciences,115276,Yes,No
+PRJ002807,CMP03652,Lambda Intelligence Suite,2023-02-22,,Active,Compliance Monitoring,38,4525063,2782914,61.5,Operations,PwC,Japan,Insurance,122653,Yes,Yes
+PRJ026789,CMP03877,Horizon Process Reengineering,2024-12-30,2025-09-30,Completed,Customer Onboarding,60,1298027,276480,21.3,Compliance,PwC,Singapore,Healthcare,182514,No,No
+PRJ010717,CMP05847,Vertex Process Reengineering,2018-05-23,,Active,Email Automation,33,3951770,6753575,170.9,Compliance,Deloitte,France,Energy & Utilities,43628,No,Yes
+PRJ002770,CMP00293,Atlas Workflow Engine,2021-06-11,,Failed,Invoice Processing,79,1307686,0,-84.0,Customer Service,EY,UAE,Healthcare,129824,Yes,Yes
+PRJ036794,CMP00540,Omega Workflow Engine,2016-03-05,,Active,Customer Onboarding,68,623780,323118,51.8,Risk Management,Cognizant,United States,Education,157391,No,Yes
+PRJ036364,CMP04955,Lambda Optimization Program,2024-09-20,,Paused,Audit Automation,139,957692,617711,64.5,IT,Infosys,Philippines,Mining & Metals,115085,Yes,No
+PRJ014200,CMP07864,Quantum Process Reengineering,2025-07-28,,Paused,IT Service Management,51,3008429,944647,31.4,Operations,Tech Mahindra,Singapore,Mining & Metals,35154,Yes,Yes
+PRJ042151,CMP09550,Phoenix Intelligence Suite,2022-04-05,2024-01-05,Completed,Payroll Processing,83,4514668,2401803,53.2,Procurement,Cognizant,Malaysia,Mining & Metals,31148,Yes,Yes
+PRJ032672,CMP04135,Delta Modernization,2023-09-04,2024-02-04,Completed,Supply Chain,19,1156034,1157190,100.1,Risk Management,Deloitte,South Africa,Retail & E-Commerce,178588,Yes,Yes
+PRJ049275,CMP07260,Lambda Accelerator,2025-07-08,,Completed,Customer Onboarding,93,1662900,4464887,268.5,Legal,EY,Vietnam,Mining & Metals,81646,No,No
+PRJ018167,CMP02598,Horizon Efficiency Project,2018-07-24,,Active,Supply Chain,126,526383,402683,76.5,Content Moderation,Capgemini,Malaysia,Retail & E-Commerce,158790,No,No
+PRJ020683,CMP07375,Vertex Intelligence Suite,2025-03-01,,Failed,Data Entry Automation,14,4935734,0,-33.2,Finance,Deloitte,Vietnam,Transportation & Logistics,161425,Yes,Yes
+PRJ015575,CMP08870,Vertex Optimization Program,2019-11-17,2020-07-17,Completed,Data Entry Automation,68,3223603,7030678,218.1,Finance,LTIMindtree,India,Manufacturing,198025,Yes,No
+PRJ038105,CMP06885,Prism Process Reengineering,2018-11-09,2020-10-09,Cancelled,Invoice Processing,56,3354773,1650548,49.2,Finance,Accenture,Canada,Banking & Finance,195420,Yes,No
+PRJ042309,CMP07606,Orion Process Reengineering,2025-01-13,,Active,Compliance Monitoring,158,1351684,3621161,267.9,Risk Management,Capgemini,Vietnam,Energy & Utilities,110529,No,No
+PRJ047183,CMP07635,Zenith Efficiency Project,2020-05-27,2022-03-27,Completed,Invoice Processing,197,4940985,12411754,251.2,Audit,Hexaware,Singapore,Technology,14112,Yes,Yes
+PRJ010920,CMP06531,Vertex Digital Transformation,2022-05-02,2023-12-02,Completed,Audit Automation,13,1385858,1845963,133.2,Supply Chain,PwC,South Africa,Insurance,57241,No,No
+PRJ003795,CMP02515,Vertex Efficiency Project,2020-09-12,,Active,Email Automation,196,2131408,6492269,304.6,Human Resources,Mphasis,United Kingdom,Manufacturing,82676,Yes,Yes
+PRJ027973,CMP00581,Fusion Automation Initiative,2022-05-14,,Failed,Supply Chain,40,1634012,0,-57.3,Finance,Deloitte,Brazil,Technology,45969,Yes,Yes
+PRJ049111,CMP03682,Aurora Efficiency Project,2017-07-29,,Active,Audit Automation,181,4451288,863550,19.4,IT,Cyient,South Africa,Manufacturing,165478,Yes,Yes
+PRJ049548,CMP03064,Apex Accelerator,2019-04-05,,Failed,Financial Reporting,46,1580114,0,-6.9,Human Resources,HCL Technologies,Germany,Government & Public Sector,112667,Yes,No
+PRJ022526,CMP01319,Apex Digital Transformation,2015-05-10,,Active,Payroll Processing,138,3690269,6620343,179.4,Operations,Capgemini,Australia,Healthcare,106582,Yes,No
+PRJ033005,CMP01593,Fusion Platform,2021-07-23,,Active,Claims Processing,33,4213829,3114020,73.9,Human Resources,EY,South Africa,Government & Public Sector,150349,Yes,No
+PRJ030654,CMP01116,Aurora Accelerator,2015-11-18,,Active,IT Service Management,6,1330859,998144,75.0,Audit,Hexaware,South Africa,Technology,151189,No,No
+PRJ016596,CMP03532,Aurora Workflow Engine,2016-03-27,2016-11-27,Completed,Supply Chain,132,1420513,2683349,188.9,Legal,Infosys,Netherlands,Mining & Metals,131007,Yes,Yes
+PRJ035727,CMP09960,Aurora Process Reengineering,2024-10-21,,Cancelled,Claims Processing,8,2160402,2019976,93.5,IT,PwC,UAE,Insurance,38130,No,No
+PRJ040742,CMP01943,Vector Platform,2018-04-28,2018-08-28,Completed,Invoice Processing,147,2712147,550566,20.3,Legal,Deloitte,United States,Education,123622,Yes,No
+PRJ012461,CMP06374,Sigma Intelligence Suite,2019-08-08,2020-10-08,Completed,Data Entry Automation,5,4957579,10177910,205.3,Customer Onboarding,Deloitte,Mexico,Banking & Finance,67198,Yes,Yes
+PRJ016186,CMP07856,Sigma Intelligence Suite,2025-07-15,,Cancelled,Invoice Processing,184,885636,1440930,162.7,Content Moderation,IBM,Singapore,Telecommunications,95672,No,Yes
+PRJ006389,CMP00952,Prism Optimization Program,2016-07-22,,Active,Email Automation,195,277542,125449,45.2,Procurement,Wipro,France,Energy & Utilities,198818,Yes,No
+PRJ032431,CMP00430,Titan Intelligence Suite,2015-03-07,2016-02-07,Cancelled,HR Automation,29,2453801,318994,13.0,Legal,Wipro,Brazil,Government & Public Sector,18704,No,Yes
+PRJ011616,CMP00545,Fusion Optimization Program,2017-06-29,,Paused,Payroll Processing,138,2973336,3978324,133.8,Supply Chain,Wipro,Vietnam,Healthcare,80745,Yes,No
+PRJ019662,CMP05353,Nexus Automation Initiative,2018-08-12,2019-06-12,Completed,HR Automation,122,3031917,8753144,288.7,Legal,Accenture,Brazil,Technology,83530,No,No
+PRJ000488,CMP02284,Zenith Efficiency Project,2015-06-22,,Active,IT Service Management,119,657493,898135,136.6,Content Moderation,Capgemini,India,Pharma & Life Sciences,158857,Yes,No
+PRJ001686,CMP04398,Sigma Accelerator,2015-05-15,,Active,Email Automation,32,571886,1696214,296.6,Risk Management,Deloitte,Australia,Insurance,35009,No,Yes
+PRJ045424,CMP05177,Orion Process Reengineering,2015-06-23,,Failed,Invoice Processing,53,962348,0,-17.6,Procurement,PwC,South Africa,Education,7247,No,Yes
+PRJ043093,CMP06483,Delta Efficiency Project,2016-02-27,2016-11-27,Completed,Supply Chain,118,4252261,10996347,258.6,Marketing,Infosys,UAE,Retail & E-Commerce,52183,Yes,Yes
+PRJ003748,CMP06328,Nexus Automation Initiative,2018-06-27,,Active,Invoice Processing,85,905555,2626110,290.0,Content Moderation,Wipro,Canada,Retail & E-Commerce,143503,Yes,No
+PRJ001986,CMP07849,Quantum Intelligence Suite,2018-11-02,,Failed,Financial Reporting,51,3828539,0,-46.2,Operations,Accenture,Vietnam,Transportation & Logistics,20573,No,No
+PRJ029681,CMP02023,Fusion Intelligence Suite,2022-06-03,2023-03-03,Completed,Financial Reporting,70,3214179,9555754,297.3,Content Moderation,Cognizant,Malaysia,Real Estate,18704,No,No
+PRJ020008,CMP09946,Vector Optimization Program,2019-10-02,,Paused,HR Automation,62,4444251,6395277,143.9,Risk Management,TCS,Australia,Manufacturing,52627,No,Yes
+PRJ028799,CMP02447,Zenith Intelligence Suite,2018-07-24,2019-03-24,Cancelled,Compliance Monitoring,110,4424403,10476986,236.8,Supply Chain,Wipro,Mexico,Pharma & Life Sciences,90252,No,No
+PRJ038734,CMP06495,Titan Process Reengineering,2019-06-20,2020-08-20,Completed,Compliance Monitoring,116,4217032,11377552,269.8,Human Resources,Tech Mahindra,Japan,Healthcare,87235,Yes,No
+PRJ030070,CMP07680,Horizon Efficiency Project,2021-04-15,,Paused,HR Automation,36,2202338,4424497,200.9,Human Resources,PwC,Brazil,Telecommunications,3267,No,Yes
+PRJ010289,CMP09485,Prism Optimization Program,2018-03-29,2019-03-29,Completed,Email Automation,83,2035933,5124443,251.7,IT,Hexaware,Canada,Insurance,89079,Yes,No
+PRJ020593,CMP05662,Vertex Optimization Program,2018-07-08,,Failed,Invoice Processing,23,2605715,0,-22.6,Legal,Hexaware,Brazil,Pharma & Life Sciences,133791,No,Yes
+PRJ016268,CMP00861,Lambda Digital Transformation,2023-06-20,2024-03-20,Completed,Audit Automation,45,2366262,3497335,147.8,Human Resources,PwC,UAE,Government & Public Sector,92712,Yes,Yes
+PRJ014707,CMP05007,Phoenix Platform,2023-09-25,,Active,Financial Reporting,107,131917,265549,201.3,Customer Onboarding,Mphasis,Japan,Real Estate,119170,No,Yes
+PRJ008995,CMP00893,Titan Efficiency Project,2019-01-21,2019-08-21,Completed,Email Automation,108,3461500,10651036,307.7,Customer Service,TCS,Australia,Insurance,75199,No,Yes
+PRJ041091,CMP00865,Phoenix Process Reengineering,2022-11-06,2023-03-06,Cancelled,HR Automation,147,1374834,138858,10.1,Marketing,PwC,France,Banking & Finance,55899,No,Yes
+PRJ014899,CMP02635,Zenith Automation Initiative,2018-05-20,,Paused,IT Service Management,142,3542790,7411517,209.2,Compliance,PwC,Vietnam,Manufacturing,104921,No,Yes
+PRJ046563,CMP04549,Fusion Process Reengineering,2021-06-04,2023-04-04,Completed,HR Automation,70,1296057,338271,26.1,Finance,HCL Technologies,Netherlands,Manufacturing,48715,No,Yes
+PRJ016170,CMP08094,Fusion Accelerator,2018-05-24,2018-08-24,Completed,HR Automation,178,1324654,317917,24.0,Operations,Infosys,Vietnam,Technology,160791,Yes,No
+PRJ006102,CMP05943,Vector Efficiency Project,2023-06-06,2024-05-06,Completed,Data Entry Automation,68,4214055,9325704,221.3,Operations,IBM,Mexico,Education,161047,No,No
+PRJ032424,CMP08913,Orion Workflow Engine,2020-10-22,,Active,Supply Chain,28,2912920,8598940,295.2,Audit,PwC,South Africa,Education,174951,Yes,No
+PRJ028964,CMP00335,Sigma Process Reengineering,2017-11-09,2018-08-09,Completed,Data Entry Automation,195,2316105,308042,13.3,Procurement,Accenture,Philippines,Government & Public Sector,105834,Yes,No
+PRJ034291,CMP08669,Sentinel Modernization,2019-02-10,2020-03-10,Completed,Email Automation,190,4381051,9647074,220.2,Audit,Cyient,South Africa,Insurance,128671,No,No
+PRJ045355,CMP06302,Sigma Platform,2019-02-27,,Active,Financial Reporting,107,3597607,5698609,158.4,Legal,IBM,Australia,Telecommunications,17432,Yes,Yes
+PRJ033648,CMP06330,Quantum Modernization,2015-12-07,2017-02-07,Cancelled,HR Automation,187,2175284,3088903,142.0,Audit,Infosys,Malaysia,Healthcare,160961,No,No
+PRJ044690,CMP06074,Atlas Automation Initiative,2024-01-14,,Active,Email Automation,160,4643955,10569642,227.6,Human Resources,Wipro,Australia,Energy & Utilities,31879,No,No
+PRJ045926,CMP08259,Orion Automation Initiative,2020-09-17,,Active,Compliance Monitoring,79,27937,34335,122.9,Legal,Deloitte,Brazil,Education,60004,Yes,Yes
+PRJ038182,CMP02916,Fusion Platform,2015-03-19,,Failed,Compliance Monitoring,116,4373510,0,-72.4,Customer Onboarding,Wipro,India,Healthcare,158646,No,Yes
+PRJ041102,CMP03533,Nexus Workflow Engine,2023-03-25,2025-03-25,Completed,Email Automation,27,3962510,3708909,93.6,Compliance,Cyient,United States,Transportation & Logistics,178920,No,Yes
+PRJ037452,CMP01963,Orion Efficiency Project,2019-02-20,,Active,Financial Reporting,106,3909428,8761028,224.1,Procurement,Tech Mahindra,Japan,Insurance,146119,Yes,No
+PRJ038745,CMP00825,Horizon Intelligence Suite,2022-09-26,,Active,Data Entry Automation,101,1655385,3896776,235.4,Compliance,Accenture,United States,Energy & Utilities,17196,No,No
+PRJ036874,CMP09385,Sigma Process Reengineering,2024-05-15,,Active,Financial Reporting,102,2579798,1346655,52.2,Marketing,Capgemini,Mexico,Banking & Finance,60883,Yes,No
+PRJ045250,CMP09737,Quantum Intelligence Suite,2022-05-13,,Paused,Invoice Processing,102,2060591,2033803,98.7,Customer Onboarding,HCL Technologies,Japan,Pharma & Life Sciences,172796,No,Yes
+PRJ032915,CMP09764,Apex Workflow Engine,2024-11-19,,Completed,Invoice Processing,163,1616379,413793,25.6,Legal,Deloitte,Brazil,Banking & Finance,128805,No,No
+PRJ020101,CMP06205,Orion Intelligence Suite,2018-10-09,,Paused,HR Automation,141,1207433,3243165,268.6,Risk Management,Cyient,UAE,Mining & Metals,157381,No,Yes
+PRJ015011,CMP02814,Lambda Intelligence Suite,2020-10-15,,Active,HR Automation,151,3605793,6681534,185.3,Customer Onboarding,Cyient,Australia,Transportation & Logistics,29460,Yes,No
+PRJ003390,CMP03318,Nexus Workflow Engine,2021-07-22,,Active,Email Automation,183,4105258,10287777,250.6,Compliance,LTIMindtree,France,Insurance,16162,No,No
+PRJ045354,CMP00112,Horizon Platform,2015-07-28,2017-03-28,Cancelled,Email Automation,35,1478109,2900050,196.2,Procurement,Accenture,Malaysia,Transportation & Logistics,37223,No,No
+PRJ014653,CMP07173,Quantum Efficiency Project,2024-12-10,,Completed,IT Service Management,81,1351862,924674,68.4,IT,Cognizant,India,Education,21463,Yes,Yes
+PRJ046901,CMP02391,Fusion Platform,2022-03-02,2022-10-02,Completed,Financial Reporting,26,3759632,8865212,235.8,Customer Service,Accenture,Japan,Telecommunications,71680,No,No
+PRJ007297,CMP09165,Phoenix Modernization,2017-01-08,,Failed,Customer Onboarding,198,2141158,0,-35.0,Audit,Tech Mahindra,Canada,Healthcare,170091,Yes,Yes
+PRJ039273,CMP02118,Vector Platform,2021-02-26,,Active,Audit Automation,177,3040712,2742722,90.2,Human Resources,Tech Mahindra,Vietnam,Banking & Finance,129715,No,Yes
+PRJ016525,CMP07340,Titan Platform,2019-05-01,,Failed,Email Automation,92,4175989,0,-81.3,Content Moderation,EY,Canada,Energy & Utilities,154201,Yes,Yes
+PRJ024444,CMP09142,Omega Workflow Engine,2025-10-06,,Failed,Audit Automation,68,1007750,0,-74.6,Finance,Tech Mahindra,Netherlands,Insurance,101326,No,No
+PRJ022419,CMP09600,Quantum Modernization,2018-06-01,,Active,HR Automation,174,4335709,3199753,73.8,Compliance,EY,Netherlands,Insurance,199161,No,No
+PRJ010223,CMP00121,Vertex Intelligence Suite,2022-09-08,2023-05-08,Cancelled,Customer Onboarding,142,3995613,9629427,241.0,Risk Management,PwC,Australia,Pharma & Life Sciences,151558,Yes,No
+PRJ019594,CMP08285,Nexus Efficiency Project,2020-07-22,2021-03-22,Completed,Audit Automation,136,4367371,8009758,183.4,IT,Hexaware,Mexico,Banking & Finance,186535,No,Yes
+PRJ014919,CMP01046,Apex Efficiency Project,2020-09-08,2022-05-08,Cancelled,Supply Chain,54,1418436,1960279,138.2,Marketing,Cognizant,Japan,Pharma & Life Sciences,142463,Yes,Yes
+PRJ025845,CMP00699,Prism Intelligence Suite,2017-01-17,,Active,Supply Chain,146,2669103,5327530,199.6,Content Moderation,Tech Mahindra,Brazil,Energy & Utilities,137845,Yes,Yes
+PRJ036749,CMP00321,Zenith Platform,2020-09-05,,Active,Invoice Processing,43,2065542,5576963,270.0,Operations,Wipro,Japan,Government & Public Sector,55586,No,Yes
+PRJ009356,CMP08902,Lambda Digital Transformation,2023-04-23,2023-10-23,Completed,Invoice Processing,33,4719431,8622400,182.7,Finance,IBM,Malaysia,Real Estate,49184,Yes,Yes
+PRJ045985,CMP00710,Delta Process Reengineering,2015-03-25,2016-04-25,Completed,Customer Onboarding,141,4496082,5282896,117.5,Content Moderation,Cognizant,United Kingdom,Telecommunications,91589,No,Yes
+PRJ000446,CMP09521,Omega Accelerator,2025-06-01,,Cancelled,Supply Chain,15,4656030,7393776,158.8,Operations,Cognizant,France,Retail & E-Commerce,62261,Yes,Yes
+PRJ040863,CMP08416,Cobalt Workflow Engine,2019-09-21,2019-12-21,Completed,Email Automation,107,2936763,3797235,129.3,Operations,IBM,UAE,Manufacturing,12625,No,Yes
+PRJ047863,CMP07902,Aurora Automation Initiative,2017-08-22,,Active,Customer Onboarding,44,579911,1341334,231.3,Operations,Wipro,Brazil,Transportation & Logistics,55387,Yes,Yes
+PRJ023563,CMP00813,Sentinel Intelligence Suite,2016-03-18,,Paused,Supply Chain,181,4538969,3758266,82.8,Human Resources,Mphasis,United Kingdom,Transportation & Logistics,21838,Yes,No
+PRJ017855,CMP02491,Phoenix Modernization,2023-09-04,,Active,Supply Chain,84,3655570,3527625,96.5,Operations,Hexaware,Japan,Education,25579,Yes,No
+PRJ030508,CMP01750,Zenith Automation Initiative,2016-05-27,,Active,Invoice Processing,38,3455211,9173585,265.5,Risk Management,Cognizant,Brazil,Energy & Utilities,69487,Yes,Yes
+PRJ032068,CMP01162,Omega Digital Transformation,2021-10-24,,Paused,Compliance Monitoring,68,968392,1527154,157.7,Operations,Deloitte,Japan,Government & Public Sector,37349,Yes,No
+PRJ039166,CMP00048,Quantum Automation Initiative,2020-09-16,2021-05-16,Completed,Compliance Monitoring,135,2201507,5862613,266.3,Customer Service,Mphasis,UAE,Energy & Utilities,58131,No,Yes
+PRJ032473,CMP00111,Sigma Accelerator,2015-08-30,2017-05-30,Cancelled,Audit Automation,21,1323761,4083803,308.5,Customer Service,Cognizant,United Kingdom,Technology,173793,Yes,No
+PRJ044072,CMP06979,Atlas Digital Transformation,2015-02-15,2015-08-15,Completed,Invoice Processing,65,3276209,7502519,229.0,Customer Service,Accenture,UAE,Banking & Finance,11223,Yes,No
+PRJ040551,CMP06383,Eclipse Optimization Program,2018-01-02,2020-01-02,Completed,Data Entry Automation,192,166500,177822,106.8,Audit,Cognizant,Philippines,Government & Public Sector,122820,Yes,No
+PRJ004380,CMP07120,Quantum Efficiency Project,2024-03-10,2024-09-10,Completed,Email Automation,149,1566671,471568,30.1,Finance,Hexaware,Singapore,Banking & Finance,193306,Yes,No
+PRJ044994,CMP08296,Orion Process Reengineering,2019-01-25,,Paused,Claims Processing,86,3137646,5145739,164.0,Marketing,HCL Technologies,Germany,Manufacturing,177228,No,Yes
+PRJ048171,CMP05241,Omega Optimization Program,2023-05-16,,Active,Payroll Processing,92,3283876,3336418,101.6,Operations,Cognizant,UAE,Energy & Utilities,37712,Yes,No
+PRJ005537,CMP05595,Quantum Platform,2025-09-22,,Active,Financial Reporting,192,445937,305913,68.6,Operations,Mphasis,Vietnam,Banking & Finance,140904,Yes,No
+PRJ015336,CMP06298,Eclipse Modernization,2022-08-04,2023-01-04,Completed,HR Automation,188,3547388,10830176,305.3,Content Moderation,Wipro,UAE,Technology,87210,No,No
+PRJ011880,CMP02188,Sigma Modernization,2021-01-05,,Active,Supply Chain,105,1290931,1496189,115.9,Customer Service,Tech Mahindra,India,Education,12351,Yes,No
+PRJ013667,CMP08702,Atlas Platform,2021-07-07,2021-12-07,Completed,Email Automation,48,4146519,6991031,168.6,Supply Chain,IBM,France,Education,127017,No,Yes
+PRJ006275,CMP00752,Orion Automation Initiative,2021-10-12,2022-01-12,Completed,Invoice Processing,26,4085239,10437786,255.5,Supply Chain,IBM,Japan,Insurance,90218,No,No
+PRJ018336,CMP03338,Vector Workflow Engine,2024-03-15,,Paused,Customer Onboarding,51,3014985,1733616,57.5,Risk Management,Infosys,South Africa,Telecommunications,164935,No,No
+PRJ016709,CMP02712,Aurora Workflow Engine,2021-12-18,2022-04-18,Completed,Invoice Processing,150,3673673,1704584,46.4,Procurement,Capgemini,South Africa,Manufacturing,39308,Yes,Yes
+PRJ044312,CMP04120,Nexus Platform,2020-08-19,,Active,Email Automation,186,4019440,10643477,264.8,Supply Chain,Infosys,Japan,Retail & E-Commerce,144474,No,No
+PRJ001022,CMP04997,Zenith Accelerator,2020-10-09,,Active,Claims Processing,143,1272185,2221235,174.6,Supply Chain,Accenture,Philippines,Pharma & Life Sciences,121082,Yes,No
+PRJ011681,CMP03056,Prism Workflow Engine,2025-12-26,,Failed,Audit Automation,193,3847343,0,-68.1,Customer Service,IBM,United States,Pharma & Life Sciences,96138,No,No
+PRJ024081,CMP08411,Vector Optimization Program,2023-03-19,,Failed,HR Automation,6,1177163,0,-16.3,Risk Management,LTIMindtree,Japan,Transportation & Logistics,85900,Yes,No
+PRJ002810,CMP04361,Lambda Platform,2023-12-09,,Active,Payroll Processing,96,2831833,2625109,92.7,Content Moderation,Accenture,Mexico,Manufacturing,71343,No,No
+PRJ010560,CMP04513,Aurora Optimization Program,2023-06-27,,Active,Invoice Processing,27,547690,993510,181.4,Supply Chain,Accenture,India,Healthcare,32687,Yes,Yes
+PRJ043874,CMP00762,Lambda Workflow Engine,2017-09-23,2019-01-23,Completed,Data Entry Automation,112,1100342,1431545,130.1,Customer Onboarding,Deloitte,Mexico,Mining & Metals,111765,Yes,Yes
+PRJ047732,CMP09742,Cobalt Process Reengineering,2025-10-19,,Failed,IT Service Management,39,1595883,0,-8.8,Customer Onboarding,LTIMindtree,UAE,Real Estate,182337,Yes,No
+PRJ014154,CMP08900,Lambda Accelerator,2024-08-16,,Active,Email Automation,65,2301883,315358,13.7,Content Moderation,EY,India,Telecommunications,72416,Yes,No
+PRJ004145,CMP03297,Vector Digital Transformation,2020-06-28,,Active,Audit Automation,170,175989,377320,214.4,Compliance,TCS,Malaysia,Manufacturing,42417,Yes,No
+PRJ031598,CMP04486,Omega Optimization Program,2018-03-05,2018-12-05,Completed,HR Automation,25,1046503,3175090,303.4,Supply Chain,LTIMindtree,Canada,Technology,144159,No,No
+PRJ046465,CMP06573,Quantum Platform,2015-09-05,,Active,Compliance Monitoring,190,4864146,13439635,276.3,Customer Onboarding,Tech Mahindra,India,Banking & Finance,80923,Yes,No
+PRJ041791,CMP00869,Zenith Accelerator,2019-05-02,2020-09-02,Completed,Invoice Processing,173,538923,1415751,262.7,Finance,Capgemini,Brazil,Energy & Utilities,96730,No,No
+PRJ041700,CMP03385,Quantum Efficiency Project,2025-12-14,,Completed,Financial Reporting,148,4428186,2059106,46.5,Content Moderation,Wipro,Germany,Technology,20857,No,Yes
+PRJ049627,CMP04851,Cobalt Modernization,2019-10-16,2020-06-16,Completed,Customer Onboarding,162,641682,67377,10.5,Operations,Infosys,Canada,Retail & E-Commerce,197358,No,No
+PRJ012102,CMP08042,Sentinel Automation Initiative,2022-05-04,,Failed,Financial Reporting,5,3518758,0,-20.3,Supply Chain,Cognizant,Mexico,Transportation & Logistics,56336,No,No
+PRJ029415,CMP03738,Sentinel Platform,2015-11-30,,Active,HR Automation,156,129463,384764,297.2,Legal,EY,Netherlands,Retail & E-Commerce,70140,Yes,Yes
+PRJ039884,CMP02302,Titan Workflow Engine,2017-01-13,2017-06-13,Completed,Payroll Processing,124,4266779,7961810,186.6,Operations,Tech Mahindra,United Kingdom,Insurance,121436,No,Yes
+PRJ048848,CMP04398,Phoenix Accelerator,2022-05-28,2023-11-28,Completed,Compliance Monitoring,128,2114889,6247382,295.4,Audit,Hexaware,South Africa,Technology,50600,Yes,No
+PRJ025745,CMP05189,Atlas Automation Initiative,2020-11-24,2021-12-24,Completed,Supply Chain,173,1490703,1361012,91.3,Finance,Hexaware,Malaysia,Real Estate,45752,Yes,No
+PRJ025306,CMP01635,Eclipse Automation Initiative,2018-07-21,,Failed,Data Entry Automation,124,65678,0,-57.4,Customer Service,Infosys,Mexico,Pharma & Life Sciences,133187,No,Yes
+PRJ016764,CMP00938,Orion Digital Transformation,2020-08-16,2021-01-16,Completed,Supply Chain,30,3948962,3044650,77.1,Procurement,LTIMindtree,Brazil,Technology,146208,No,Yes
+PRJ013158,CMP00966,Horizon Platform,2020-03-17,2020-06-17,Completed,Payroll Processing,82,2359110,1684405,71.4,Marketing,Accenture,Brazil,Retail & E-Commerce,199211,Yes,No
+PRJ048907,CMP03835,Eclipse Intelligence Suite,2023-07-12,,Active,HR Automation,112,884062,306770,34.7,Legal,LTIMindtree,France,Telecommunications,78325,Yes,Yes
+PRJ040010,CMP06637,Sigma Modernization,2017-09-02,,Paused,HR Automation,107,3041475,888111,29.2,Operations,Cognizant,Mexico,Manufacturing,48675,No,Yes
+PRJ003466,CMP09242,Fusion Process Reengineering,2021-06-28,2022-08-28,Completed,HR Automation,99,2476971,6328661,255.5,Operations,Wipro,Netherlands,Government & Public Sector,62570,No,Yes
+PRJ037571,CMP09719,Orion Workflow Engine,2017-09-01,,Failed,Audit Automation,200,829688,0,-90.5,Finance,Hexaware,Australia,Real Estate,164634,No,Yes
+PRJ026702,CMP05726,Orion Digital Transformation,2021-01-31,2021-08-31,Completed,Compliance Monitoring,91,2623841,920968,35.1,Customer Service,Wipro,Malaysia,Government & Public Sector,59580,No,No
+PRJ039367,CMP07681,Zenith Automation Initiative,2023-02-16,,Failed,Supply Chain,40,4334257,0,-0.2,Risk Management,TCS,Germany,Healthcare,184547,No,No
