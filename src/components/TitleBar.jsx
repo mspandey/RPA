@@ -4,7 +4,7 @@ const TitleBar = memo(function TitleBar({ isPaused }) {
   return (
     <div className="title-bar" role="banner">
       <div className="title-bar-brand">
-        <h1 className="title-bar-name mono">TELEMETRY // CONSOLE</h1>
+        <h1 className="title-bar-name mono">RPA</h1>
         <span className="title-bar-tagline">LIVE TELEMETRY // 50,000+ RPA PROJECTS // REAL-TIME FLEET STATUS</span>
       </div>
       
