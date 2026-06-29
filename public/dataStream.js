@@ -26,6 +26,11 @@
  * }, []);
  * * ============================================================================
  */
+(function() {
+  let memoryPool = [];
+  let isInitialized = false;
+
+  const randomRange = (min, max) => Math.random() * (max - min) + min;
 
 
   /**
