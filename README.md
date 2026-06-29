@@ -31,8 +31,7 @@ The **RPA Telemetry Console** is built like an aircraft's instrument panel. It p
 - **Lightning-fast Data Manipulation:** Multi-column sorting and fuzzy-search filtering that reacts instantly, even on datasets larger than 50,000 rows.
 - **Live KPI Strip:** Animated, real-time counters tracking global fleet health and statuses (Active, Paused, Failed, Completed).
 - **Non-Blocking Snapshot Export:** Export the exact rows you are currently viewing (respecting all sorts and filters) to a CSV file instantly, entirely on the client-side, without freezing the application.
-- **High-Density "Mission Control" UI:** A dark-mode, terminal-inspired aesthetic focusing on pure data density and readability over flashy, distracting elements.
-
+-
 ---
 
 ## 🛠 Technical Architecture (Under the Hood)
