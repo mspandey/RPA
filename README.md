@@ -39,7 +39,8 @@ The **RPA Telemetry Console** is built like an aircraft's instrument panel. It p
 
 To achieve 60FPS performance while processing a continuous stream of 50k+ records, we had to rethink standard React state management:
 
- 
+ ### 1. Headless Data Engine (`viewEngine.js` & `rpaStore.js`)
+Instead of relying on React `useState` (which would trigger catastrophic re-renders on every tick), we implemented a custom, highly optimized in-memory data store. The telemetry stream mutates this store directly.
 
 ### 2. Virtualized Rendering Grid
 Rendering 50,000 DOM nodes would crash the browser. We implemented a **Custom Virtualized Grid** that calculates the exact scroll position and only renders the ~30 rows visible in the user's viewport. As the user scrolls, DOM nodes are recycled and repopulated in milliseconds.
