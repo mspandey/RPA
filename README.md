@@ -1,4 +1,4 @@
-# 🛰️ RPA Telemetry Console
+
 
 > **Mission Control for Enterprise Automation**
 > A high-performance, real-time telemetry dashboard designed to monitor and manage over 50,000+ Robotic Process Automation (RPA) projects simultaneously without dropping a frame.
